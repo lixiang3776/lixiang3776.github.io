@@ -42,10 +42,10 @@ Nuo Chen<sup>&#42;</sup>, **Qiushi Sun**<sup>&#42;</sup>, Renyu Zhu<sup>&#42;</s
 </div>
 </div>
 
-- `Preprint` [Make Prompt-based Black-Box Tuning Colorful: Boosting Model Generalization from Three Orthogonal Perspectives](https://qiushisun.github.io/academics/), **Qiushi Sun**, Chengcheng Han, Nuo Chen, Renyu Zhu, Jingyang Gong, Xiang Li and Ming Gao.
+- `Preprint` [Make Prompt-based Black-Box Tuning Colorful: Boosting Model Generalization from Three Orthogonal Perspectives](https://qiushisun.github.io/), **Qiushi Sun**, Chengcheng Han, Nuo Chen, Renyu Zhu, Jingyang Gong, Xiang Li and Ming Gao.
 - `Preprint` [HugNLP: A Unified and Comprehensive Library for Natural Language Processing](https://api.semanticscholar.org/CorpusID:257232389) <img src='./images/hugnlp-logo.png' style='width: 2.85em;'>, Jianing Wang, Nuo Chen, **Qiushi Sun**, Wenkang Huang, Chengyu Wang and Ming Gao. \| [![](https://img.shields.io/github/stars/wjn1996/HugNLP?style=social&label=Code+Stars)](https://github.com/wjn1996/HugNLP)
 - `ACL 2023` [Do Large Language Models Know What They Don't Know?](https://qiushisun.github.io/academics/), Zhangyue Yin, **Qiushi Sun**, Qipeng Guo, Jiawen Wu, Xipeng Qiu and Xuanjing Huang.
-- `ACL 2023` [When Gradient Descent Meets Derivative-Free Optimization: A Match Made in Black-Box Scenario](https://qiushisun.github.io/academics/), Chengcheng Han, Liqing Cui, Renyu Zhu, Jianing Wang, Nuo Chen, **Qiushi Sun**, Xiang Li and Ming Gao.
+- `ACL 2023` [When Gradient Descent Meets Derivative-Free Optimization: A Match Made in Black-Box Scenario](https://qiushisun.github.io/), Chengcheng Han, Liqing Cui, Renyu Zhu, Jianing Wang, Nuo Chen, **Qiushi Sun**, Xiang Li and Ming Gao.
 - `EMNLP 2022` [CAT-probing: A Metric-based Approach to Interpret How Pre-trained Models for Programming Language Attend Code Structure](https://arxiv.org/abs/2210.04633), Nuo Chen<sup>&#42;</sup>, **Qiushi Sun**<sup>&#42;</sup>, Renyu Zhu<sup>&#42;</sup>, Xiang Li, Xuesong Lu and Ming Gao. \| [![](https://img.shields.io/github/stars/QiushiSun/CodeAttention?style=social&label=Code+Stars)](https://github.com/QiushiSun/CodeAttention)
 
 # 🎖 Honors and Awards
