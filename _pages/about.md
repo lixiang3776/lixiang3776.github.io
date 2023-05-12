@@ -24,7 +24,8 @@ Download my [Resumé](./files/Qiushi_Academic_CV_April_2023.pdf)📄 in PDF.
  <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
-- *2023.05*: &nbsp;🎉🎉 We release *SelfAware* dataset (ACL 2023 Findings) for benchmarking LLMs' self-knowledge.
+- *2023.05*: &nbsp;🚀🚀 *HugNLP* Framework is ready for use! Please check our [Paper](https://arxiv.org/abs/2302.14286), [Repo](https://github.com/HugAILab/HugNLP) and [Blogs](https://zhuanlan.zhihu.com/p/628106578)!
+- *2023.05*: &nbsp;👏👏 We release *SelfAware* dataset (ACL 2023 Findings) for benchmarking LLMs' self-knowledge.
 - *2022.12*: &nbsp;🎉🎉 Our team won second prize (100k RMB) in the [International Algorithm Case Competition](https://iacc.pazhoulab-huangpu.com/): PLM Tuning Track. 
 
 # 📝 Publications 
