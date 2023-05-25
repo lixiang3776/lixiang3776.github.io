@@ -19,12 +19,11 @@ redirect_from:
 
 Welcome to my homepage! I am a master’s student at National University of Singapore (NUS). Currently, I am advised [Dr. Xiaoli Li](https://www.a-star.edu.sg/i2r/about-i2r/i2r-management/li-xiaoli) at Institute for Infocomm Research ([I<sup>2</sup>R](https://www.a-star.edu.sg/i2r)), A*STAR, Singapore for NLP research. I completed my B.Eng in the School of Data Science and Engineering ([DaSE](http://dase.ecnu.edu.cn/)) with distinction at East China Normal University, where I felt very privileged to be instructed by [Prof. Weining Qian](http://dase.ecnu.edu.cn/dase-module-gateway/dase/teacher/single_teacher.html?teacherId=27), [Prof. Xuesong Lu](http://dase.ecnu.edu.cn/dase-module-gateway/dase/teacher/single_teacher.html?teacherId=40) and [Prof. Xiang Li](https://lixiang3776.github.io/) for research/engineering projects.
 My research interests cover neural code intelligence, efficient methods for NLP, representation learning and broad deep learning topics in general.
-<div  align="right">
-<img src='./images/qiushi-seal.jpg' style='width: 3em;'>  
-</div>
 <!-- Download my [Resumé](./files/Qiushi_Academic_CV_May_2023.pdf)📄 in PDF. -->
  <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
-
+<div  align="right">
+<img src='./images/qiushi-seal.jpg' style='width: 2.75em;'>  
+</div>
 # 🔥 News
 - *2023.05*: &nbsp;🚀🚀 *HugNLP* Framework is ready for use! Please check our [Paper](https://arxiv.org/abs/2302.14286), [Repo](https://github.com/HugAILab/HugNLP) and [Blogs](https://zhuanlan.zhihu.com/p/628106578)!
 - *2023.05*: &nbsp;👏👏 We release *SelfAware* dataset (ACL 2023 Findings) for benchmarking LLMs' self-knowledge.
