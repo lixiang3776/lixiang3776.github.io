@@ -73,4 +73,4 @@ Nuo Chen<sup>&#42;</sup>, **Qiushi Sun**<sup>&#42;</sup>, Renyu Zhu<sup>&#42;</s
 - (Fall 2021) Teaching Assistant @ Deep Learning for Computer Vision, ECNU, Shanghai, China.
 
 
-> "What's past is prologue." -- William Shakespeare (The Tempest)
+> "What's past is prologue." -- William Shakespeare (The Tempest)                               <img src='./images/qiushi-seal.jpg' style='width: 5em;'>         
