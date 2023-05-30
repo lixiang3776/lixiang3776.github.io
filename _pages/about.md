@@ -26,7 +26,7 @@ My research interests cover neural code intelligence, efficient methods for NLP,
 </div>
 # 🔥 News
 - *2023.05*: &nbsp;🚀🚀 *HugNLP* Framework is ready for use! Please check our [Paper](https://arxiv.org/abs/2302.14286), [Repo](https://github.com/HugAILab/HugNLP) and [Blogs](https://zhuanlan.zhihu.com/p/628106578)!
-- *2023.05*: &nbsp;👏👏 We release *SelfAware* dataset (ACL 2023 Findings) for benchmarking LLMs' self-knowledge.
+- *2023.05*: &nbsp;👏👏 We release *SelfAware* (ACL 2023 Findings) for benchmarking LLMs' self-knowledge [Paper](https://arxiv.org/abs/2305.18153).
 - *2022.12*: &nbsp;🎉🎉 Our team won second prize (100k RMB) in the [International Algorithm Case Competition](https://iacc.pazhoulab-huangpu.com/): PLM Tuning Track. 
 
 # 📝 Publications 
@@ -45,7 +45,7 @@ Nuo Chen<sup>&#42;</sup>, **Qiushi Sun**<sup>&#42;</sup>, Renyu Zhu<sup>&#42;</s
 
 - `Preprint` [Make Prompt-based Black-Box Tuning Colorful: Boosting Model Generalization from Three Orthogonal Perspectives](https://arxiv.org/abs/2305.08088), **Qiushi Sun**, Chengcheng Han, Nuo Chen, Renyu Zhu, Jingyang Gong, Xiang Li and Ming Gao.
 - `Preprint` [HugNLP: A Unified and Comprehensive Library for Natural Language Processing](https://api.semanticscholar.org/CorpusID:257232389) <img src='./images/hugnlp-logo.png' style='width: 2.85em;'>, Jianing Wang, Nuo Chen, **Qiushi Sun**, Wenkang Huang, Chengyu Wang and Ming Gao. \| [![](https://img.shields.io/github/stars/wjn1996/HugNLP?style=social&label=Code+Stars)](https://github.com/wjn1996/HugNLP)
-- `ACL 2023` [Do Large Language Models Know What They Don't Know?](https://qiushisun.github.io/academics/), Zhangyue Yin, **Qiushi Sun**, Qipeng Guo, Jiawen Wu, Xipeng Qiu and Xuanjing Huang.
+- `ACL 2023` [Do Large Language Models Know What They Don't Know?](https://arxiv.org/abs/2305.18153), Zhangyue Yin, **Qiushi Sun**, Qipeng Guo, Jiawen Wu, Xipeng Qiu and Xuanjing Huang.
 - `ACL 2023` [When Gradient Descent Meets Derivative-Free Optimization: A Match Made in Black-Box Scenario](https://arxiv.org/abs/2305.10013), Chengcheng Han, Liqing Cui, Renyu Zhu, Jianing Wang, Nuo Chen, **Qiushi Sun**, Xiang Li and Ming Gao.
 - `EMNLP 2022` [CAT-probing: A Metric-based Approach to Interpret How Pre-trained Models for Programming Language Attend Code Structure](https://arxiv.org/abs/2210.04633), Nuo Chen<sup>&#42;</sup>, **Qiushi Sun**<sup>&#42;</sup>, Renyu Zhu<sup>&#42;</sup>, Xiang Li, Xuesong Lu and Ming Gao. \| [![](https://img.shields.io/github/stars/QiushiSun/CodeAttention?style=social&label=Code+Stars)](https://github.com/QiushiSun/CodeAttention)
 
@@ -74,6 +74,5 @@ Nuo Chen<sup>&#42;</sup>, **Qiushi Sun**<sup>&#42;</sup>, Renyu Zhu<sup>&#42;</s
 - (Fall 2021) Teaching Assistant @ Deep Learning for Computer Vision, ECNU, Shanghai, China.
 
 
-> "What's past is prologue." -- William Shakespeare (The Tempest)                               
-> 
+> "What's past is prologue." -- William Shakespeare (The Tempest)
        
