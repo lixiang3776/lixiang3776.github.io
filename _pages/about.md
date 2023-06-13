@@ -43,6 +43,7 @@ Nuo Chen<sup>&#42;</sup>, **Qiushi Sun**<sup>&#42;</sup>, Renyu Zhu<sup>&#42;</s
 </div>
 </div>
 
+- `Preprint` [Boosting Language Models Reasoning with Chain-of-Knowledge Prompting](https://arxiv.org/abs/2306.06427), Jianing Wang<sup>&#42;</sup>, **Qiushi Sun**<sup>&#42;</sup>, Nuo Chen, Xiang Li and Ming Gao.
 - `Preprint` [Make Prompt-based Black-Box Tuning Colorful: Boosting Model Generalization from Three Orthogonal Perspectives](https://arxiv.org/abs/2305.08088), **Qiushi Sun**, Chengcheng Han, Nuo Chen, Renyu Zhu, Jingyang Gong, Xiang Li and Ming Gao.
 - `Preprint` [HugNLP: A Unified and Comprehensive Library for Natural Language Processing](https://api.semanticscholar.org/CorpusID:257232389) <img src='./images/hugnlp-logo.png' style='width: 2.85em;'>, Jianing Wang, Nuo Chen, **Qiushi Sun**, Wenkang Huang, Chengyu Wang and Ming Gao. \| [![](https://img.shields.io/github/stars/wjn1996/HugNLP?style=social&label=Code+Stars)](https://github.com/wjn1996/HugNLP)
 - `ACL 2023` [Do Large Language Models Know What They Don't Know?](https://arxiv.org/abs/2305.18153), Zhangyue Yin, **Qiushi Sun**, Qipeng Guo, Jiawen Wu, Xipeng Qiu and Xuanjing Huang.
