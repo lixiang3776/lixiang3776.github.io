@@ -19,7 +19,8 @@ redirect_from:
 
 Welcome to my homepage! I am a master’s student at National University of Singapore (NUS). Currently, I am advised [Dr. Xiaoli Li](https://www.a-star.edu.sg/i2r/about-i2r/i2r-management/li-xiaoli) at Institute for Infocomm Research ([I<sup>2</sup>R](https://www.a-star.edu.sg/i2r)), A*STAR, Singapore for NLP research. I completed my B.Eng in the School of Data Science and Engineering ([DaSE](http://dase.ecnu.edu.cn/)) with distinction at East China Normal University, where I felt very privileged to be instructed by [Prof. Weining Qian](http://dase.ecnu.edu.cn/dase-module-gateway/dase/teacher/single_teacher.html?teacherId=27), [Prof. Xuesong Lu](http://dase.ecnu.edu.cn/dase-module-gateway/dase/teacher/single_teacher.html?teacherId=40) and [Prof. Xiang Li](https://lixiang3776.github.io/) for research/engineering projects.
 My research interests cover neural code intelligence, efficient methods for NLP, representation learning and broad deep learning topics in general.
-<!-- Download my [Resumé](./files/Qiushi_Academic_CV_May_2023.pdf)📄 in PDF. -->
+
+Download my [Resumé](./files/Qiushi_Academic_CV_June_2023.pdf)📄 in PDF.
  <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 <div  align="right">
 <img src='./images/qiushi-seal.jpg' style='width: 2.75em;'>  
@@ -69,6 +70,7 @@ Nuo Chen<sup>&#42;</sup>, **Qiushi Sun**<sup>&#42;</sup>, Renyu Zhu<sup>&#42;</s
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
+- *2023.06 - Present*, NLP Research Intern, [Shanghai AI Laboratory](https://github.com/Shark-NLP)  <img src='./images/svgs/shailab-logo.svg' style='width: 1.75em;'>, Shanghai.
 - *2023.01 - 2023.06*, NLP Research Intern, [Institute for Infocomm Research, A*STAR](https://www.a-star.edu.sg/i2r) <img src='./images/svgs/astar-i2r.svg' style='width: 1.75em;'>, Singapore.
 - *2021.10 - 2022.07*, Research Assistant, [School of Data Science and Engineering](http://dase.ecnu.edu.cn/) <img src='./images/svgs/DaSE.svg' style='width: 1.25em;'>, ECNU, Shanghai, China.
 
