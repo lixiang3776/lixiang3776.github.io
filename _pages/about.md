@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my homepage! I am a master’s student at National University of Singapore (NUS). Currently, I am advised [Dr. Xiaoli Li](https://www.a-star.edu.sg/i2r/about-i2r/i2r-management/li-xiaoli) at Institute for Infocomm Research ([I<sup>2</sup>R](https://www.a-star.edu.sg/i2r)), A*STAR, Singapore for NLP research. I completed my B.Eng in the School of Data Science and Engineering ([DaSE](http://dase.ecnu.edu.cn/)) with distinction at East China Normal University, where I felt very privileged to be instructed by [Prof. Weining Qian](http://dase.ecnu.edu.cn/dase-module-gateway/dase/teacher/single_teacher.html?teacherId=27), [Prof. Xuesong Lu](http://dase.ecnu.edu.cn/dase-module-gateway/dase/teacher/single_teacher.html?teacherId=40) and [Prof. Xiang Li](https://lixiang3776.github.io/) for research/engineering projects.
+Welcome to my homepage! I am a master’s student at National University of Singapore (NUS). Currently, I work at NLP group of [Shanghai AI Lab](https://www.shlab.org.cn/) as a research intern, supervised by [Dr. Zhiyong Wu](https://lividwo.github.io/zywu.github.io/). Prior to this, I was advised [Dr. Xiaoli Li](https://www.a-star.edu.sg/i2r/about-i2r/i2r-management/li-xiaoli) at Institute for Infocomm Research ([I<sup>2</sup>R](https://www.a-star.edu.sg/i2r)), A*STAR, Singapore for NLP research. I completed my B.Eng in the School of Data Science and Engineering ([DaSE](http://dase.ecnu.edu.cn/)) with distinction at East China Normal University, where I felt very privileged to be instructed by [Prof. Weining Qian](http://dase.ecnu.edu.cn/dase-module-gateway/dase/teacher/single_teacher.html?teacherId=27), [Prof. Xuesong Lu](http://dase.ecnu.edu.cn/dase-module-gateway/dase/teacher/single_teacher.html?teacherId=40) and [Prof. Xiang Li](https://lixiang3776.github.io/) for research/engineering projects.
 My research interests cover neural code intelligence, efficient methods for NLP, representation learning and broad deep learning topics in general.
 
 Download my [Resumé](./files/Qiushi_Academic_CV_June_2023.pdf)📄 in PDF.
@@ -70,7 +70,7 @@ Nuo Chen<sup>&#42;</sup>, **Qiushi Sun**<sup>&#42;</sup>, Renyu Zhu<sup>&#42;</s
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2023.06 - Present*, NLP Research Intern, [Shanghai AI Laboratory](https://github.com/Shark-NLP)  <img src='./images/svgs/shailab-logo.svg' style='width: 1.75em;'>, Shanghai.
+- *2023.06 - Present*, NLP Research Intern, [Shanghai AI Laboratory](https://github.com/Shark-NLP)  <img src='./images/svgs/shailab-logo.svg' style='width: 1.90em;'>, Shanghai, China.
 - *2023.01 - 2023.06*, NLP Research Intern, [Institute for Infocomm Research, A*STAR](https://www.a-star.edu.sg/i2r) <img src='./images/svgs/astar-i2r.svg' style='width: 1.75em;'>, Singapore.
 - *2021.10 - 2022.07*, Research Assistant, [School of Data Science and Engineering](http://dase.ecnu.edu.cn/) <img src='./images/svgs/DaSE.svg' style='width: 1.25em;'>, ECNU, Shanghai, China.
 
@@ -79,4 +79,3 @@ Nuo Chen<sup>&#42;</sup>, **Qiushi Sun**<sup>&#42;</sup>, Renyu Zhu<sup>&#42;</s
 
 
 > "What's past is prologue." -- William Shakespeare (The Tempest)
-       
