@@ -12,11 +12,13 @@ Nuo Chen<sup>&#42;</sup>, **Qiushi Sun**<sup>&#42;</sup>, Renyu Zhu<sup>&#42;</s
 </div>
 </div> -->
 
+<!-- - `Preprint` [Paradigm, Model and Application: A Systematic Survey of Neural Code Intelligence](qiushisun.github.io), **Qiushi Sun**, ..., Xiang Li and Zhiyong Wu. -->
 - `Preprint` [Symbol-LLM: Towards Foundational Symbol-centric Interface For Large Language Models](https://arxiv.org/abs/2311.09278), Fangzhi Xu, Zhiyong Wu, **Qiushi Sun**, Siyu Ren, Fei Yuan, Shuai Yuan, Qika Lin, Yu Qiao and Jun Liu.
 - `Preprint` [Corex: Pushing the Boundaries of Complex Reasoning through Multi-Model Collaboration](https://arxiv.org/abs/2310.00280), **Qiushi Sun**, Zhangyue Yin, Xiang Li, Zhiyong Wu, Xipeng Qiu and Lingpeng Kong.
 - `Preprint` [Boosting Language Models Reasoning with Chain-of-Knowledge Prompting](https://arxiv.org/abs/2306.06427), Jianing Wang<sup>&#42;</sup>, **Qiushi Sun**<sup>&#42;</sup>, Nuo Chen, Xiang Li and Ming Gao.
 - `Preprint` [TransCoder: Towards Unified Transferable Code Representation Learning Inspired by Human Skills](https://arxiv.org/abs/2306.07285), **Qiushi Sun**, Nuo Chen, Jianing Wang, Xiang Li and Ming Gao.
 - `Preprint` [Make Prompt-based Black-Box Tuning Colorful: Boosting Model Generalization from Three Orthogonal Perspectives](https://arxiv.org/abs/2305.08088), **Qiushi Sun**, Chengcheng Han, Nuo Chen, Renyu Zhu, Jingyang Gong, Xiang Li and Ming Gao.
+- ``EMNLP 2023`` [Exchange-of-Thought: Enhancing Large Language Model Capabilities through Cross-Model Communication](http://arxiv.org/abs/2312.01823), Zhangyue Yin, **Qiushi Sun**, Cheng Chang, Qipeng Guo, Junqi Dai, Xuanjing Huang and Xipeng Qiu.
 - ``EMNLP 2023`` [Uncertainty-aware Parameter-Efficient Self-training for Semi-supervised Language Understanding](https://arxiv.org/abs/2310.13022), Jianing Wang, **Qiushi Sun**, Nuo Chen, Chengyu Wang, Xiang Li, Ming Gao and Jun Huang.
 - ``EMNLP 2023`` [Pass-Tuning: Towards Structure-Aware Parameter-Efficient Tuning for Code Representation Learning](qiushisun.github.io), Nuo Chen, **Qiushi Sun**, Jianing Wang, Xiang Li and Ming Gao.
 - ``ACL 2023`` [Do Large Language Models Know What They Don't Know?](https://arxiv.org/abs/2305.18153), Zhangyue Yin, **Qiushi Sun**, Qipeng Guo, Jiawen Wu, Xipeng Qiu and Xuanjing Huang. [Slides](./files/ACL23_LLMSA-Presentation.pdf) \| [Video](https://youtu.be/VTl8FAdNJEI) \| [![](https://img.shields.io/github/stars/yinzhangyue/SelfAware?style=social&label=Code+Stars)](https://github.com/yinzhangyue/SelfAware)

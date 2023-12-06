@@ -24,26 +24,19 @@ I will start my Ph.D. in Computer Science at [HKU CS](https://www.cs.hku.hk/) in
 
 <!-- Download my [Resumé](./files/Qiushi_Academic_CV_June_2023.pdf)📄 in PDF. -->
  <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
+ 
 <div  align="right">
 <img src='./images/qiushi-seal.jpg' style='width: 2.75em;'>  
 </div>
 # 🔥 News
+- *2023.12*: &nbsp;⛱️⛱️ Attending EMNLP 2023 in SG 🇸🇬
 - *2023.05*: &nbsp;🚀🚀 *HugNLP* Framework is ready for use! Please check our [Paper](https://arxiv.org/abs/2302.14286), [Repo](https://github.com/HugAILab/HugNLP) and [Blogs](https://zhuanlan.zhihu.com/p/628106578)!
 - *2023.05*: &nbsp;👏👏 We release [*SelfAware* (ACL 2023 Findings)](https://arxiv.org/abs/2305.18153) for benchmarking LLMs' self-knowledge [Slides](./files/ACL23_LLMSA-Presentation.pdf).
 - *2022.12*: &nbsp;🎉🎉 Our team won second prize (100k RMB) in the [International Algorithm Case Competition](https://iacc.pazhoulab-huangpu.com/): PLM Tuning Track. 
 
-
 {% include_relative includes/pub.md %}
 
-
-# 🎖 Honors and Awards
-- *2023.10* CIKM Best Demo Paper Award, ACM & SIGIR 
-- *2022.12* International Algorithm Case Competition: PLM Tuning, Second Prize, Greater Bay Area 
-- *2022.07* Shanghai Outstanding Graduates, Shanghai Municipal Education Commission 
-- *2022.05* Excellent Bachelor Thesis Award, East China Normal University
-- *2021.11* Outstanding Student, East China Normal University
-- *2021.10* First Class Scholarship, East China Normal University
-- *2021.05* Finalist (Special Class Prize), Mathematical and Interdisciplinary Contest in Modeling
+{% include_relative includes/honors.md %}
 
 # 📖 Educations
 - *2022.08 - 2024.01 (now)*, Master, National University of Singapore  <img src='./images/svgs/NUS-logo.svg' style='width: 2.1em;'>, Singapore.
