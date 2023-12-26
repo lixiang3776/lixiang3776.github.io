@@ -18,8 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Welcome to my homepage! I am a master’s student at National University of Singapore (NUS). Currently, I am working at NLP group of [Shanghai AI Lab](https://www.shlab.org.cn/) as a research intern under the supervision of [Dr. Zhiyong Wu](https://lividwo.github.io/zywu.github.io/), focusing on topics of LLMs. Prior to this, I was advised by [Dr. Xiaoli Li](https://www.a-star.edu.sg/i2r/about-i2r/i2r-management/li-xiaoli) at Institute for Infocomm Research ([I<sup>2</sup>R](https://www.a-star.edu.sg/i2r)), A*STAR, Singapore for NLP research. Before that, I completed my B.Eng in the School of Data Science and Engineering ([DaSE](http://dase.ecnu.edu.cn/)) with distinction at East China Normal University, where I felt very privileged to be instructed by [Prof. Weining Qian](http://dase.ecnu.edu.cn/dase-module-gateway/dase/teacher/single_teacher.html?teacherId=27), [Prof. Xuesong Lu](http://dase.ecnu.edu.cn/dase-module-gateway/dase/teacher/single_teacher.html?teacherId=40) and [Prof. Xiang Li](https://lixiang3776.github.io/) for research/engineering projects.
-My research interests cover neural code intelligence, efficient methods for NLP, representation learning and broad deep learning topics in general.
-
+My research interests cover neural code intelligence, efficient methods for NLP, representation learning and broad deep learning topics in general. 
+<!-- <img src='./images/Notion-logo.svg-1.png' style='width: 1.25em;'>  [Personal Blogs](http://dase.ecnu.edu.cn/)  -->
 I will start my Ph.D. in Computer Science at [HKU CS](https://www.cs.hku.hk/) in 2024 Fall 🐱
 
 <!-- Download my [Resumé](./files/Qiushi_Academic_CV_June_2023.pdf)📄 in PDF. -->
@@ -38,27 +38,19 @@ I will start my Ph.D. in Computer Science at [HKU CS](https://www.cs.hku.hk/) in
 
 {% include_relative includes/honors.md %}
 
-# 📖 Educations
-- *2022.08 - 2024.01 (now)*, Master, National University of Singapore  <img src='./images/svgs/NUS-logo.svg' style='width: 2.1em;'>, Singapore.
-- *2018.09 - 2022.07*, Undergraduate, School of Data Science and Engineering, East China Normal University  <img src='./images/svgs/ECNU-logo.svg.png' style='width: 1.5em;'>, Shanghai, China.
-- *2011.09 - 2018.07*, Middle School, Pudong Foreign Languages School  <img src='./images/svgs/PFLS-logo.png' style='width: 1.5em;'>, SISU, Shanghai, China.
+{% include_relative includes/edu.md %}
+
+{% include_relative includes/interns.md %}
+
+{% include_relative includes/ta.md %}
+
+{% include_relative includes/services.md %}
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
-- *2023.06 - Present*, NLP Research Intern, [NLP Group, Shanghai AI Laboratory](https://github.com/Shark-NLP)  <img src='./images/svgs/shailab-logo.svg' style='width: 1.90em;'>, Shanghai, China.
-- *2023.01 - 2023.06*, NLP Research Intern, [Institute for Infocomm Research, A*STAR](https://www.a-star.edu.sg/i2r) <img src='./images/svgs/astar-i2r.svg' style='width: 1.75em;'>, Singapore.
-- *2021.10 - 2022.07*, Research Assistant, [School of Data Science and Engineering](http://dase.ecnu.edu.cn/) <img src='./images/svgs/DaSE.svg' style='width: 1.25em;'>, ECNU, Shanghai, China.
-
-# 🧑‍🏫 Teaching
-- (Fall 2021) Teaching Assistant @ Deep Learning for Computer Vision, ECNU, Shanghai, China.
-
-# 🔍 Services
-- I serve(d) as a conference reviewer for EMNLP2022/2023, ACL2023, CIKM2023, ICLR2024, ACL Rolling Review
-
-> "What's past is prologue." -- William Shakespeare (The Tempest)
+> "What's past is prologue." -- William Shakespeare (The Tempest)  <a href='https://scholar.google.com/citations?user=QgMkYFAAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 <!-- # 📅 My Calendar
 
