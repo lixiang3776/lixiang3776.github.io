@@ -9,10 +9,11 @@
 
 [Slides] | [[Project]](https://github.com/QiushiSun/NCISurvey)  | [Video] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> 
 <!-- [![](https://img.shields.io/github/stars/QiushiSun/CodeAttention?style=social&label=Stars)](https://github.com/QiushiSun/CodeAttention) -->
+
 Let me walk you through the development of code intelligence:
-- Follow LMs for code as a thread to trace the field's development.
-- Explore synergies with other domains and reveal cross-discipline opportunities.
-- Present a broad array of promising research avenues.
+- Follow LMs for code as a thread to trace the field's development 🚀
+- Explore synergies with other domains and reveal cross-discipline opportunities 🌱
+- Present a broad array of promising research avenues 💡
 </div>
 </div>
 
