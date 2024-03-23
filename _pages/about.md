@@ -20,6 +20,7 @@ redirect_from:
 Welcome to my homepage! I am a master’s student at National University of Singapore (NUS). Currently, I am working at NLP group of [Shanghai AI Lab](https://www.shlab.org.cn/) as a research intern under the supervision of [Dr. Zhiyong Wu](https://lividwo.github.io/zywu.github.io/), focusing on topics of LLMs. Prior to this, I was advised by [Dr. Xiaoli Li](https://www.a-star.edu.sg/i2r/about-i2r/i2r-management/li-xiaoli) at Institute for Infocomm Research ([I<sup>2</sup>R](https://www.a-star.edu.sg/i2r)), A*STAR, Singapore for NLP research. Before that, I completed my B.Eng in the School of Data Science and Engineering ([DaSE](http://dase.ecnu.edu.cn/)) with distinction at East China Normal University, where I felt very privileged to be instructed by [Prof. Weining Qian](http://dase.ecnu.edu.cn/dase-module-gateway/dase/teacher/single_teacher.html?teacherId=27), [Prof. Xuesong Lu](http://dase.ecnu.edu.cn/dase-module-gateway/dase/teacher/single_teacher.html?teacherId=40) and [Prof. Xiang Li](https://lixiang3776.github.io/) for research/engineering projects.
 My research interests cover neural code intelligence, efficient methods for NLP, representation learning and broad deep learning topics in general. 
 <!-- <img src='./images/Notion-logo.svg-1.png' style='width: 1.25em;'>  [Personal Blogs](http://dase.ecnu.edu.cn/)  -->
+
 I will start my Ph.D. in Computer Science at [HKU CS](https://www.cs.hku.hk/) in 2024 Fall 🐱
 
 <!-- Download my [Resumé](./files/Qiushi_Academic_CV_June_2023.pdf)📄 in PDF. -->

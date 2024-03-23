@@ -1,23 +1,24 @@
 # 📝 Publications 
+(*Denotes equal contribution)
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2022</div><img src='images/cat-probing-emnlp22.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/codelms-tree.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CAT-probing: A Metric-based Approach to Interpret How Pre-trained Models for Programming Language Attend Code Structure](https://arxiv.org/abs/2210.04633)
+[A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond](https://arxiv.org/abs/2210.04633)
 
-Nuo Chen<sup>&#42;</sup>, **Qiushi Sun**<sup>&#42;</sup>, Renyu Zhu<sup>&#42;</sup>, [Xiang Li](https://lixiang3776.github.io/), Xuesong Lu and Ming Gao
+Qiushi Sun, Zhirui Chen, Fangzhi Xu, Chang Ma, Kanzhi Cheng, Zhangyue Yin, Jianing Wang, Chengcheng Han, Renyu Zhu, Shuai Yuan, Pengcheng Yin, Qipeng Guo, Xipeng Qiu, Xiaoli Li, Fei Yuan, Lingpeng Kong, Xiang Li, Zhiyong Wu
 
-[Slides](./files/EMNLP22_Presentation.pdf) | [Video](https://youtu.be/lghmmlV62JA) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Revealing the relationship between the structural information of source codes and the attention distribution for CodePTMs, and exploring the impact of structural pre-training on task performance.
+[Slides] | [Video] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Let me walk you through the development of code intelligence.
 </div>
-</div> -->
+</div>
 
 <!-- - `Preprint` [Paradigm, Model and Application: A Systematic Survey of Neural Code Intelligence](qiushisun.github.io), **Qiushi Sun**, ..., Xiang Li and Zhiyong Wu. -->
 - `Preprint` [KS-Lottery🎟️: Finding Certified Lottery Tickets for Multilingual Language Models](http://arxiv.org/abs/2402.02801), Fei Yuan, Chang Ma, Shuai Yuan, **Qiushi Sun**, Lei Li.
 - `Preprint` [SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents](https://arxiv.org/abs/2401.10935), Kanzhi Cheng, **Qiushi Sun**, Yougang Chu, Fangzhi Xu, Yantao Li, Jianbing Zhang, Zhiyong Wu. <span style="color:#ac530f">[LLMAgents @ ICLR 2024]</span>
 - `Preprint` [Symbol-LLM: Towards Foundational Symbol-centric Interface For Large Language Models](https://arxiv.org/abs/2311.09278), Fangzhi Xu, Zhiyong Wu, **Qiushi Sun**, Siyu Ren, Fei Yuan, Shuai Yuan, Qika Lin, Yu Qiao and Jun Liu.
 - `Preprint` [Corex: Pushing the Boundaries of Complex Reasoning through Multi-Model Collaboration](https://arxiv.org/abs/2310.00280), **Qiushi Sun**, Zhangyue Yin, Xiang Li, Zhiyong Wu, Xipeng Qiu and Lingpeng Kong. <span style="color:#ac530f">[LLMAgents @ ICLR 2024]</span>
-- `Preprint` [Boosting Language Models Reasoning with Chain-of-Knowledge Prompting](https://arxiv.org/abs/2306.06427), Jianing Wang<sup>&#42;</sup>, **Qiushi Sun**<sup>&#42;</sup>, Nuo Chen, Xiang Li and Ming Gao.
+- `Preprint` [Boosting Language Models Reasoning with Chain-of-Knowledge Prompting](https://arxiv.org/abs/2306.06427), Jianing Wang<sup>&#42;</sup>, **Qiushi Sun**<sup>&#42;</sup>, Xiang Li and Ming Gao.
 - `LREC-COLING 2024` [TransCoder: Towards Unified Transferable Code Representation Learning Inspired by Human Skills](https://arxiv.org/abs/2306.07285), **Qiushi Sun**, Nuo Chen, Jianing Wang, Xiang Li and Ming Gao.
 - `LREC-COLING 2024` [Make Prompt-based Black-Box Tuning Colorful: Boosting Model Generalization from Three Orthogonal Perspectives](https://arxiv.org/abs/2305.08088), **Qiushi Sun**, Chengcheng Han, Nuo Chen, Renyu Zhu, Jingyang Gong, Xiang Li and Ming Gao. 
 - `LREC-COLING 2024` [Aggregation of Reasoning: A Hierarchical Framework for Enhancing Answer Selection in Large Language Models](qiushisun.github.io), Zhangyue Yin, **Qiushi Sun**, Qipeng Guo, Zhiyuan Zeng, Xiaonan Li, Tianxiang Sun, Cheng Chang, Xipeng Qiu and Xuanjing Huang.
