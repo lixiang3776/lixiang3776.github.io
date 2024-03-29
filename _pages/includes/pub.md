@@ -7,7 +7,7 @@
 
 **Qiushi Sun**, Zhirui Chen, Fangzhi Xu, Chang Ma, Kanzhi Cheng, Zhangyue Yin, Jianing Wang, Chengcheng Han, Renyu Zhu, Shuai Yuan, Pengcheng Yin, Qipeng Guo, Xipeng Qiu, Xiaoli Li, Fei Yuan, Lingpeng Kong, Xiang Li, Zhiyong Wu 
 
-[[Paper]](https://arxiv.org/abs/2403.14734) | [Slides] | [[Project]](https://github.com/QiushiSun/NCISurvey)  | [Video] [![](https://img.shields.io/github/stars/QiushiSun/NCISurvey?style=social&label=Code+Stars)](https://github.com/QiushiSun/NCISurvey)
+[[Paper]](https://arxiv.org/abs/2403.14734) | [Slides] | [[Project]](https://github.com/QiushiSun/NCISurvey)  | [Video] 
 
  <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> [![](https://img.shields.io/github/stars/QiushiSun/NCISurvey?style=social&label=Stars)](https://github.com/QiushiSun/NCISurvey) -->
 
@@ -15,7 +15,7 @@ Let me walk you through the development of neural code intelligence:
 - Follow LMs for code as a thread to trace the field's development 🚀
 - Explore cross-domain synergies and opportunities 🌱
 - Present a broad array of promising research avenues 💡
-<!-- - Provide multiple curated reading lists  -->
+- Provide multiple curated reading lists [![](https://img.shields.io/github/stars/QiushiSun/NCISurvey?style=social&label=Code+Stars)](https://github.com/QiushiSun/NCISurvey)
 </div>
 </div>
 
