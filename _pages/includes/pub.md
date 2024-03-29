@@ -7,8 +7,7 @@
 
 **Qiushi Sun**, Zhirui Chen, Fangzhi Xu, Chang Ma, Kanzhi Cheng, Zhangyue Yin, Jianing Wang, Chengcheng Han, Renyu Zhu, Shuai Yuan, Pengcheng Yin, Qipeng Guo, Xipeng Qiu, Xiaoli Li, Fei Yuan, Lingpeng Kong, Xiang Li, Zhiyong Wu 
 
-[[Paper]](https://arxiv.org/abs/2403.14734) | [Slides] | [[Project]](https://github.com/QiushiSun/NCISurvey)  | [Video] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> 
-<!-- [![](https://img.shields.io/github/stars/QiushiSun/CodeAttention?style=social&label=Stars)](https://github.com/QiushiSun/CodeAttention) -->
+[[Paper]](https://arxiv.org/abs/2403.14734) | [Slides] | [[Project]](https://github.com/QiushiSun/NCISurvey)  | [Video] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> [![](https://img.shields.io/github/stars/QiushiSun/NCISurvey?style=social&label=Stars)](https://github.com/QiushiSun/NCISurvey)
 
 Let me walk you through the development of neural code intelligence:
 - Follow LMs for code as a thread to trace the field's development 🚀
@@ -26,7 +25,7 @@ Let me walk you through the development of neural code intelligence:
 - `LREC-COLING 2024` [TransCoder: Towards Unified Transferable Code Representation Learning Inspired by Human Skills](https://arxiv.org/abs/2306.07285), **Qiushi Sun**, Nuo Chen, Jianing Wang, Xiang Li and Ming Gao.
 - `LREC-COLING 2024` [Make Prompt-based Black-Box Tuning Colorful: Boosting Model Generalization from Three Orthogonal Perspectives](https://arxiv.org/abs/2305.08088), **Qiushi Sun**, Chengcheng Han, Nuo Chen, Renyu Zhu, Jingyang Gong, Xiang Li and Ming Gao. \| 🥈 <span style="color: #C41E3A;"> **100K RMB Award-winning Solution** </span>
 - `LREC-COLING 2024` [Aggregation of Reasoning: A Hierarchical Framework for Enhancing Answer Selection in Large Language Models](qiushisun.github.io), Zhangyue Yin, **Qiushi Sun**, Qipeng Guo, Zhiyuan Zeng, Xiaonan Li, Tianxiang Sun, Cheng Chang, Xipeng Qiu and Xuanjing Huang.
-- `LREC-COLING 2024` [Structure-aware Fine-tuning for Code Pre-trained Models](qiushisun.github.io), Jiayi Wu, Renyu Zhu, **Qiushi Sun**, Nuo Chen, Xiang Li and Ming Gao.
+<!-- - `LREC-COLING 2024` [Structure-aware Fine-tuning for Code Pre-trained Models](qiushisun.github.io), Jiayi Wu, Renyu Zhu, **Qiushi Sun**, Nuo Chen, Xiang Li and Ming Gao. -->
 - ``EMNLP 2023`` [Exchange-of-Thought: Enhancing Large Language Model Capabilities through Cross-Model Communication](http://arxiv.org/abs/2312.01823), Zhangyue Yin, **Qiushi Sun**, Cheng Chang, Qipeng Guo, Junqi Dai, Xuanjing Huang and Xipeng Qiu. [Slides](./files/EMNLP2023_EoT_231112.pdf) \| [Video](https://youtu.be/mAMn8Xjkprg?si=jDIj8oSy0oT0-WRp)
 - ``EMNLP 2023`` [Uncertainty-aware Parameter-Efficient Self-training for Semi-supervised Language Understanding](https://aclanthology.org/2023.findings-emnlp.528/), Jianing Wang, **Qiushi Sun**, Nuo Chen, Chengyu Wang, Xiang Li, Ming Gao and Jun Huang.
 - ``EMNLP 2023`` [Pass-Tuning: Towards Structure-Aware Parameter-Efficient Tuning for Code Representation Learning](https://aclanthology.org/2023.findings-emnlp.42/), Nuo Chen, **Qiushi Sun**, Jianing Wang, Xiang Li and Ming Gao.
