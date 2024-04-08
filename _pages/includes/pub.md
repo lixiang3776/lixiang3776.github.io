@@ -7,7 +7,7 @@
 
 **Qiushi Sun**, Zhirui Chen, Fangzhi Xu, Chang Ma, Kanzhi Cheng, Zhangyue Yin, Jianing Wang, Chengcheng Han, Renyu Zhu, Shuai Yuan, Pengcheng Yin, Qipeng Guo, Xipeng Qiu, Xiaoli Li, Fei Yuan, Lingpeng Kong, Xiang Li, Zhiyong Wu 
 
-[[Paper]](https://arxiv.org/abs/2403.14734) \| [Slides] \| [[Project]](https://github.com/QiushiSun/NCISurvey)  \| [Video] \| [![](https://img.shields.io/github/stars/QiushiSun/NCISurvey?style=social&label=Code+Stars)](https://github.com/QiushiSun/NCISurvey)
+[[Paper]](https://arxiv.org/abs/2403.14734) \| [Slides] \| [[Project]](https://qiushisun.github.io/NCI-Survey-Homapage/)  \| [Video] \| [![](https://img.shields.io/github/stars/QiushiSun/NCISurvey?style=social&label=Code+Stars)](https://github.com/QiushiSun/NCISurvey)
 
  <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> [![](https://img.shields.io/github/stars/QiushiSun/NCISurvey?style=social&label=Stars)](https://github.com/QiushiSun/NCISurvey) -->
 
@@ -37,4 +37,4 @@ Let me walk you through the development of neural code intelligence:
 - ``ACL 2023`` [When Gradient Descent Meets Derivative-Free Optimization: A Match Made in Black-Box Scenario](https://arxiv.org/abs/2305.10013), Chengcheng Han, Liqing Cui, Renyu Zhu, Jianing Wang, Nuo Chen, **Qiushi Sun**, Xiang Li and Ming Gao.
 - ``EMNLP 2022`` [CAT-probing: A Metric-based Approach to Interpret How Pre-trained Models for Programming Language Attend Code Structure](https://arxiv.org/abs/2210.04633), Nuo Chen<sup>&#42;</sup>, **Qiushi Sun**<sup>&#42;</sup>, Renyu Zhu<sup>&#42;</sup>, Xiang Li, Xuesong Lu and Ming Gao. [Slides](./files/EMNLP22_Presentation.pdf) \| [Video](https://doi.org/10.48448/76ht-3y46) \| [![](https://img.shields.io/github/stars/QiushiSun/CodeAttention?style=social&label=Code+Stars)](https://github.com/QiushiSun/CodeAttention)
 
-- *Denotes equal contribution. More working drafts / preprints under review will be released later ⌛️
+*Denotes equal contribution. More working drafts / preprints under review will be released later ⌛️
