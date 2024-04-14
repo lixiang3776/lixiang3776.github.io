@@ -30,6 +30,7 @@ I will start my Ph.D. in Computer Science at [HKU CS](https://www.cs.hku.hk/) in
 <img src='./images/qiushi-seal.jpg' style='width: 2.75em;'>  
 </div>
 # 🔥 News
+- *2024.04*: &nbsp;📑📑 Check out our Code Intelligence Survey Paper 🔥
 - *2023.12*: &nbsp;⛱️⛱️ Attending EMNLP 2023 in SG 🇸🇬
 - *2023.05*: &nbsp;🚀🚀 *HugNLP* Framework is ready for use! Please check our [Paper](https://arxiv.org/abs/2302.14286), [Repo](https://github.com/HugAILab/HugNLP) and [Blogs](https://zhuanlan.zhihu.com/p/628106578)!
 - *2023.05*: &nbsp;👏👏 We release [*SelfAware* (ACL 2023 Findings)](https://arxiv.org/abs/2305.18153) for benchmarking LLMs' self-knowledge [Slides](./files/ACL23_LLMSA-Presentation.pdf).
