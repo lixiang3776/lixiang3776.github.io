@@ -6,7 +6,7 @@
 
 **Qiushi Sun**, Zhirui Chen, Fangzhi Xu, Chang Ma, Kanzhi Cheng, Zhangyue Yin, Jianing Wang, Chengcheng Han, Renyu Zhu, Shuai Yuan, Pengcheng Yin, Qipeng Guo, Xipeng Qiu, Xiaoli Li, Fei Yuan, Lingpeng Kong, Xiang Li, Zhiyong Wu 
 
-[[Paper]](https://arxiv.org/abs/2403.14734) \| [Slides] \| [[Project]](https://qiushisun.github.io/NCI-Survey-Homapage/)  \| [Video] \| [![](https://img.shields.io/github/stars/QiushiSun/NCISurvey?style=social&label=Code+Stars)](https://github.com/QiushiSun/NCISurvey) [<img src='./images/Logo_of_Twitter.svg.png' style='width: 1.85em;'>](https://twitter.com/qiushi_sun/status/1773252567637639185)
+[[Paper]](https://arxiv.org/abs/2403.14734) \| [Slides] \| [[Project]](https://qiushisun.github.io/NCI-Survey-Homapage/)  \| [Video] \| [![](https://img.shields.io/github/stars/QiushiSun/NCISurvey?style=social&label=Code+Stars)](https://github.com/QiushiSun/NCISurvey) [<img src='./images/Logo_of_Twitter.svg.png' style='width: 1.35em;'>](https://twitter.com/qiushi_sun/status/1773252567637639185)
 
  <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> [![](https://img.shields.io/github/stars/QiushiSun/NCISurvey?style=social&label=Stars)](https://github.com/QiushiSun/NCISurvey) -->
 
@@ -20,10 +20,10 @@ Let me walk you through the development of neural code intelligence:
 
 <!-- - `Preprint` [Paradigm, Model and Application: A Systematic Survey of Neural Code Intelligence](qiushisun.github.io), **Qiushi Sun**, ..., Xiang Li and Zhiyong Wu. -->
 - `Preprint` [KS-Lottery: Finding Certified Lottery Tickets for Multilingual Language Models](http://arxiv.org/abs/2402.02801), Fei Yuan, Chang Ma, Shuai Yuan, **Qiushi Sun**, Lei Li.
-- `Preprint` [SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents](https://arxiv.org/abs/2401.10935), Kanzhi Cheng, **Qiushi Sun**, Yougang Chu, Fangzhi Xu, Yantao Li, Jianbing Zhang, Zhiyong Wu. <span style="color:#ac530f">[LLMAgents @ ICLR 2024]</span>
-- `Preprint` [Symbol-LLM: Towards Foundational Symbol-centric Interface For Large Language Models](https://arxiv.org/abs/2311.09278), Fangzhi Xu, Zhiyong Wu, **Qiushi Sun**, Siyu Ren, Fei Yuan, Shuai Yuan, Qika Lin, Yu Qiao and Jun Liu.
 - `Preprint` [Corex: Pushing the Boundaries of Complex Reasoning through Multi-Model Collaboration](https://arxiv.org/abs/2310.00280), **Qiushi Sun**, Zhangyue Yin, Xiang Li, Zhiyong Wu, Xipeng Qiu and Lingpeng Kong. <span style="color:#ac530f">[LLMAgents @ ICLR 2024]</span>
-- `Preprint` [Boosting Language Models Reasoning with Chain-of-Knowledge Prompting](https://arxiv.org/abs/2306.06427), Jianing Wang<sup>&#42;</sup>, **Qiushi Sun**<sup>&#42;</sup>, Xiang Li and Ming Gao.
+- `ACL 2024` [Boosting Language Models Reasoning with Chain-of-Knowledge Prompting](https://arxiv.org/abs/2306.06427), Jianing Wang<sup>&#42;</sup>, **Qiushi Sun**<sup>&#42;</sup>, Xiang Li and Ming Gao.
+- `ACL 2024` [SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents](https://arxiv.org/abs/2401.10935), Kanzhi Cheng, **Qiushi Sun**, Yougang Chu, Fangzhi Xu, Yantao Li, Jianbing Zhang, Zhiyong Wu. <span style="color:#ac530f">[LLMAgents @ ICLR 2024]</span>
+- `ACL 2024` [Symbol-LLM: Towards Foundational Symbol-centric Interface For Large Language Models](https://arxiv.org/abs/2311.09278), Fangzhi Xu, Zhiyong Wu, **Qiushi Sun**, Siyu Ren, Fei Yuan, Shuai Yuan, Qika Lin, Yu Qiao and Jun Liu.
 - `LREC-COLING 2024` [TransCoder: Towards Unified Transferable Code Representation Learning Inspired by Human Skills](https://arxiv.org/abs/2306.07285), **Qiushi Sun**, Nuo Chen, Jianing Wang, Xiang Li and Ming Gao.
 - `LREC-COLING 2024` [Make Prompt-based Black-Box Tuning Colorful: Boosting Model Generalization from Three Orthogonal Perspectives](https://arxiv.org/abs/2305.08088), **Qiushi Sun**, Chengcheng Han, Nuo Chen, Renyu Zhu, Jingyang Gong, Xiang Li and Ming Gao. \| 🥈 <span style="color: #C41E3A;"> **100K RMB Award-winning Solution** </span>
 - `LREC-COLING 2024` [Aggregation of Reasoning: A Hierarchical Framework for Enhancing Answer Selection in Large Language Models](qiushisun.github.io), Zhangyue Yin, **Qiushi Sun**, Qipeng Guo, Zhiyuan Zeng, Xiaonan Li, Tianxiang Sun, Cheng Chang, Xipeng Qiu and Xuanjing Huang.
