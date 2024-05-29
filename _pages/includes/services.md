@@ -1,2 +1,5 @@
 # 🔍 Services
-- I serve(d) as a conference reviewer for EMNLP2022, ACL2023, CIKM2023, EMNLP2023(Best Reviewer Award), ICLR2024, ACL Rolling Review
+- I serve(d) as a reviewer for the following conferences, journals, and workshops:
+  - Conferences: EMNLP'22, ACL'23, CIKM'23, EMNLP'23(Best Reviewer Award), ICLR'24, NeurIPS'24.
+  - Journals: ACL Rolling Review (2023.4 - Present).
+  - Workshops: [WiNLP'24](https://www.winlp.org/).
