@@ -58,11 +58,11 @@ My research interests include neural code intelligence, LLM-based agents, and br
 <div class="scrollable-area">  
     <ul>
         <li><em>2024.05</em>: 🥂🥂 Four papers are accepted by ACL 2024! See you in Bangkok!</li>
-        <li><em>2024.03</em>: 📑📑 Check out our Code Intelligence Survey Paper 🔥</li>  
+        <li><em>2024.03</em>: 📑📑 Check out our <a href="https://arxiv.org/abs/2403.14734">Code Intelligence Survey Paper</a>🔥</li>  
         <li><em>2023.12</em>: ⛱️⛱️ Attending EMNLP 2023 in SG 🇸🇬</li>  
-        <li><em>2023.05</em>: 🚀🚀 *HugNLP* Framework is ready for use! Please check our [Paper](https://arxiv.org/abs/2302.14286), [Repo](https://github.com/HugAILab/HugNLP) and [Blogs](https://zhuanlan.zhihu.com/p/628106578)!</li>  
-        <li><em>2023.05</em>: 👏👏 We release [*SelfAware* (ACL 2023 Findings)](https://arxiv.org/abs/2305.18153) for benchmarking LLMs' self-knowledge [Slides](./files/ACL23_LLMSA-Presentation.pdf).</li>  
-        <li><em>2022.12</em>: 🎉🎉 Our team won second prize (100k RMB) in the [International Algorithm Case Competition](https://iacc.pazhoulab-huangpu.com/): PLM Tuning Track. 
+        <li><em>2023.05</em>: 🚀🚀 *HugNLP* Framework is ready for use! Please check our <a href="https://arxiv.org/abs/2302.14286">Paper</a>, <a href="https://github.com/HugAILab/HugNLP">Repo</a> and <a href="https://zhuanlan.zhihu.com/p/628106578">Blogs</a></li>  
+        <li><em>2023.05</em>: 👏👏 We release <a href="https://arxiv.org/abs/2305.18153">*SelfAware*</a> for benchmarking LLMs' self-knowledge </li>  
+        <li><em>2022.12</em>: 🎉🎉 Our team won second prize (100k RMB) in the <a href="https://iacc.pazhoulab-huangpu.com/">International Algorithm Case Competition</a>: PLM Tuning Track. 
 </li>  
     </ul>  
 </div>  
