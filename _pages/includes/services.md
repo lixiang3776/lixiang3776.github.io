@@ -1,5 +1,8 @@
 # 🔍 Services
-- I serve(d) as a reviewer / program committee member for the following conferences, journals, and workshops:
-  - Conferences: EMNLP'22, ACL'23, CIKM'23, EMNLP'23(Best Reviewer Award), ICLR'24, NeurIPS'24, NLPCC'24.
+- I serve(d) as a program committee member / reviewer for the following conferences and journals:
+  - Conferences
+    - 2024: NeurIPS, ICML, ICLR, KDD, WebConf, CIKM, ECML-PKDD
+    - 2023:
+    - 2022:
+    - 2021:
   - Journals: ACL Rolling Review (2023.4 - Present).
-  - Workshops: [WiNLP'24](https://www.winlp.org/).
