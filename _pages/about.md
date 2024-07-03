@@ -26,7 +26,6 @@ My general research interests focus on data mining and applied machine learning,
 	Generally speaking, I have spent lots of efforts in classification, clustering, link prediction and other generative tasks in graphs. 
 	Moreover, I like to explore some misc problems of challenge, such as reinforcement learning, crowdsourcing and NLP techniques.
 	Specifically, my research interests include:
-
 	- Machine learning: semi-supervised learning, self-supervised learning, weakly-supervised learning, graph-based learning;
 	- Data mining: graph neural networks, heterogeneous graph mining, OOD generalizability;
 	- Language processing: large language models (LLMs), code representation learning, prompt tuning;
