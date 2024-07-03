@@ -82,8 +82,6 @@ For students who are interested in working and collaborating with me, feel free 
 
 <!-- {% include_relative includes/honors.md %} -->
 
-<!-- {% include_relative includes/edu.md %} -->
-
 <!-- {% include_relative includes/interns.md %} -->
 
 {% include_relative includes/ta.md %}
