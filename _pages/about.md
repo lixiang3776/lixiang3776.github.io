@@ -27,10 +27,10 @@ My general research interests focus on data mining and applied machine learning,
 	Moreover, I like to explore some misc problems of challenge, such as reinforcement learning, crowdsourcing and NLP techniques.
 	Specifically, my research interests include:
 
-	<ul><li>Machine learning: semi-supervised learning, self-supervised learning, weakly-supervised learning, graph-based learning;</li>
-	<li>Data mining: graph neural networks, heterogeneous graph mining, OOD generalizability;</li>
-	<li>Language processing: large language models (LLMs), code representation learning, prompt tuning;</li>
-	<li>Data privacy: federated learning, data heterogeneity, model heterogeneity.</li></ul>
+	- Machine learning: semi-supervised learning, self-supervised learning, weakly-supervised learning, graph-based learning;
+	- Data mining: graph neural networks, heterogeneous graph mining, OOD generalizability;
+	- Language processing: large language models (LLMs), code representation learning, prompt tuning;
+	- Data privacy: federated learning, data heterogeneity, model heterogeneity.
 
 <!-- I am an incoming Ph.D. student at [HKU CS](https://www.cs.hku.hk/). Currently, I am working at the NLP group of [Shanghai AI Lab](https://www.shlab.org.cn/) under the supervision of [Dr. Zhiyong Wu](https://lividwo.github.io/zywu.github.io/), focusing on topics related to LLM Agents. Previously, I was a master’s student at NUS, advised by [Dr. Xiaoli Li](https://www.a-star.edu.sg/i2r/about-i2r/i2r-management/li-xiaoli) at the Institute for Infocomm Research ([I<sup>2</sup>R](https://www.a-star.edu.sg/i2r)), A*STAR. Before that, I completed my B.Eng with distinction in the School of Data Science and Engineering ([DaSE](http://dase.ecnu.edu.cn/)) at East China Normal University, where I was privileged to be instructed by [Prof. Weining Qian](http://dase.ecnu.edu.cn/dase-module-gateway/dase/teacher/single_teacher.html?teacherId=27), [Prof. Xuesong Lu](http://dase.ecnu.edu.cn/dase-module-gateway/dase/teacher/single_teacher.html?teacherId=40), and [Prof. Xiang Li](https://lixiang3776.github.io/) for research and engineering projects. -->
 
