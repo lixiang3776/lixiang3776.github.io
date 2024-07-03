@@ -290,7 +290,6 @@
 		In <b><i>WWW 2018</i></b>, Lyon, France. <a href="https://github.com/lixiang3776/CAST">[Project Codes] </a>    
 		<br>
 	</li>
-	
 	<li>
 	<a href="http://i.cs.hku.hk/~xli2/pub/www17.pdf" target="_blank"><i>Semi-supervised clustering in attributed heterogeneous information networks</i></a>,<br> 
 		<b>Xiang Li</b>, Yao Wu, Martin Ester, Ben Kao, Xin Wang, and Yudian Zheng.<br>
