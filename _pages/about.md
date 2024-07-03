@@ -80,13 +80,13 @@ For students who are interested in working and collaborating with me, feel free 
 
 {% include_relative includes/pub.md %}
 
-{% include_relative includes/alumni.md %}
-
 <!-- {% include_relative includes/interns.md %} -->
 
 {% include_relative includes/ta.md %}
 
 {% include_relative includes/services.md %}
+
+{% include_relative includes/alumni.md %}
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
