@@ -84,11 +84,11 @@ My general research interests focus on data mining and applied machine learning,
 
 {% include_relative includes/pub.md %}
 
-{% include_relative includes/honors.md %}
+<!-- {% include_relative includes/honors.md %} -->
 
-{% include_relative includes/edu.md %}
+<!-- {% include_relative includes/edu.md %} -->
 
-{% include_relative includes/interns.md %}
+<!-- {% include_relative includes/interns.md %} -->
 
 {% include_relative includes/ta.md %}
 
