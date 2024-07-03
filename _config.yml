@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Qiushi Sun"
+title                    : "Xiang Li"
 description              : "NLP "
-repository               : "QiushiSun/academics"
+repository               :
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Qiushi Sun"
-  avatar           : "images/Qiushi.png"
-  bio              : "Ph.D. candidate in NLP"
-  location         : "Shanghai / Singapore"
+  name             : "Xiang Li"
+  avatar           : "images/pic.png"
+  bio              : "Research Professor in ECNU"
+  location         :
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=QgMkYFAAAAAJ&hl=en"
-  semanticscholar  : "https://www.semanticscholar.org/author/Qiushi-Sun/2112455065"
-  email            : "thomasqiushi@icloud.com"
+  googlescholar    : "https://scholar.google.com/citations?user=JnxxNtsAAAAJ&hl=zh-CN"
+  semanticscholar  :
+  email            : "xiangli@dase.ecnu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -38,21 +38,21 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : QiushiSun # e.g., "github username"
+  github           : lixiang3776 # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : qiushi-sun # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  linkedin         :
+  dblp             : "https://dblp.org/pid/40/1491-67.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            : QiushiSun
+  steam            :
   tumblr           :
-  twitter          : qiushi_sun
+  twitter          :
   vine             :
   weibo            :
   xing             :

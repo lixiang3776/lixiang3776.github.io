@@ -17,9 +17,23 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my homepage! I am an incoming Ph.D. student at [HKU CS](https://www.cs.hku.hk/). Currently, I am working at the NLP group of [Shanghai AI Lab](https://www.shlab.org.cn/) under the supervision of [Dr. Zhiyong Wu](https://lividwo.github.io/zywu.github.io/), focusing on topics related to LLM Agents. Previously, I was a master’s student at NUS, advised by [Dr. Xiaoli Li](https://www.a-star.edu.sg/i2r/about-i2r/i2r-management/li-xiaoli) at the Institute for Infocomm Research ([I<sup>2</sup>R](https://www.a-star.edu.sg/i2r)), A*STAR. Before that, I completed my B.Eng with distinction in the School of Data Science and Engineering ([DaSE](http://dase.ecnu.edu.cn/)) at East China Normal University, where I was privileged to be instructed by [Prof. Weining Qian](http://dase.ecnu.edu.cn/dase-module-gateway/dase/teacher/single_teacher.html?teacherId=27), [Prof. Xuesong Lu](http://dase.ecnu.edu.cn/dase-module-gateway/dase/teacher/single_teacher.html?teacherId=40), and [Prof. Xiang Li](https://lixiang3776.github.io/) for research and engineering projects.
+Welcome to my homepage! I am now research professor and also Ph.D. advisor in the <a href="http://dase.ecnu.edu.cn" target="_blank">School of Data Science and Engineering</a> at <a href="http://english.ecnu.edu.cn" target="_blank">East China Normal University</a>, leading the PLANING lab (graPh mining and LANguage processING ☺). Before that, I received my Ph.D. degree from <a href="http://www.hku.hk/" target="_blank">The University of Hong Kong</a> in 2018, 
+	M.Eng. degree from <a href="http://www.ustc.edu.cn/">University of Science and Technology of China</a> in 2014 and B.Eng. degree from <a href="http://www.ncu.edu.cn/">Nanchang University</a> in 2011, respectively. 
+	Previously, I worked as a research scientist in the <a href="https://datascience.jd.com", target="_blank">Data Science Lab</a> at JD.com from Aug 2018 to July 2019 and a postdoc researcher in <a href="http://www.hku.hk/" target="_blank">The University of Hong Kong</a> from July 2019 to Dec 2020.
 
-My research interests include neural code intelligence, LLM-based agents, and broad deep learning topics in general.
+My general research interests focus on data mining and applied machine learning, 
+	in particular, on graph mining, semi-supervised learning and part of NLP related tasks. 
+	Generally speaking, I have spent lots of efforts in classification, clustering, link prediction and other generative tasks in graphs. 
+	Moreover, I like to explore some misc problems of challenge, such as reinforcement learning, crowdsourcing and NLP techniques.
+	Specifically, my research interests include:
+	<ul><li>Machine learning: semi-supervised learning, self-supervised learning, weakly-supervised learning, graph-based learning;</li>
+	<li>Data mining: graph neural networks, heterogeneous graph mining, OOD generalizability;</li>
+	<li>Language processing: large language models (LLMs), code representation learning, prompt tuning;</li>
+	<li>Data privacy: federated learning, data heterogeneity, model heterogeneity.</li></ul>
+
+<!-- I am an incoming Ph.D. student at [HKU CS](https://www.cs.hku.hk/). Currently, I am working at the NLP group of [Shanghai AI Lab](https://www.shlab.org.cn/) under the supervision of [Dr. Zhiyong Wu](https://lividwo.github.io/zywu.github.io/), focusing on topics related to LLM Agents. Previously, I was a master’s student at NUS, advised by [Dr. Xiaoli Li](https://www.a-star.edu.sg/i2r/about-i2r/i2r-management/li-xiaoli) at the Institute for Infocomm Research ([I<sup>2</sup>R](https://www.a-star.edu.sg/i2r)), A*STAR. Before that, I completed my B.Eng with distinction in the School of Data Science and Engineering ([DaSE](http://dase.ecnu.edu.cn/)) at East China Normal University, where I was privileged to be instructed by [Prof. Weining Qian](http://dase.ecnu.edu.cn/dase-module-gateway/dase/teacher/single_teacher.html?teacherId=27), [Prof. Xuesong Lu](http://dase.ecnu.edu.cn/dase-module-gateway/dase/teacher/single_teacher.html?teacherId=40), and [Prof. Xiang Li](https://lixiang3776.github.io/) for research and engineering projects. -->
+
+<!-- My research interests include neural code intelligence, LLM-based agents, and broad deep learning topics in general. -->
 
 <!-- I will start my Ph.D. in Computer Science at [HKU CS](https://www.cs.hku.hk/) in 2024 Fall 🐱 -->
 
