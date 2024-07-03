@@ -35,10 +35,7 @@ For students who are interested in working and collaborating with me, feel free 
 
 <!-- Download my [Resumé](./files/Qiushi_Academic_CV_June_2023.pdf)📄 in PDF. -->
  <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
- 
-<div  align="right">
-<img src='./images/qiushi-seal.jpg' style='width: 2.75em;'>  
-</div>
+
 # 🔥 News
 <!-- - *2024.05*: &nbsp;🥂🥂 Four papers are accepted by ACL 2024! See you in Bangkok!
 - *2024.03*: &nbsp;📑📑 Check out our Code Intelligence Survey Paper 🔥
