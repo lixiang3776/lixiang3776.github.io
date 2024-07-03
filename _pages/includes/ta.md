@@ -1,10 +1,9 @@
 # 🧑‍🏫 Teaching
-- (Fall 2021) Teaching Assistant @ Deep Learning for Computer Vision, ECNU, Shanghai, China.
-- (Spring 2024) Instructor @ Deep Learning and Reinforcement Learning, postgraduate level, ECNU, China.
-- \cvitem{Instructor}{DATA0031131015.02: \textbf{Contemporary Artificial Intelligence}, undergraduate level, ECNU, Fall Semester, 2023.}
-- \cvitem{Instructor}{DATA0031121992.02: \textbf{Contemporary Artificial Intelligence}, undergraduate level, ECNU, Spring Semester, 2023.}
-- \cvitem{Instructor}{SWEN6211102020: \textbf{Deep Learning and Reinforcement Learning}, postgraduate level, ECNU, Spring Semester, 2023.}
-- \cvitem{Instructor}{DATA0031121992.01: \textbf{Contemporary Artificial Intelligence}, undergraduate level, ECNU, Spring Semester, 2022.}
-- \cvitem{Instructor}{SWEN6211102020: \textbf{Deep Learning and Reinforcement Learning}, postgraduate level, ECNU, Spring Semester, 2022.}
-- \cvitem{Instructor}{DATA0031121992.01: \textbf{Contemporary Artificial Intelligence}, undergraduate level, ECNU, Fall Semester, 2021.}
-- \cvitem{Instructor}{SWEN6211102020: \textbf{Deep Learning and Reinforcement Learning}, postgraduate level, ECNU, Spring Semester, 2021.}
+- (Spring 2023-2024) Instructor @ Deep Learning and Reinforcement Learning, postgraduate level, ECNU, China. 
+- (Fall 2023-2024) Instructor @ Contemporary Artificial Intelligence, undergraduate level, ECNU, China.
+- (Spring 2022-2023) Instructor @ Contemporary Artificial Intelligence, undergraduate level, ECNU, China.
+- (Spring 2022-2023) Instructor @ Deep Learning and Reinforcement Learning, postgraduate level, ECNU, China.
+- (Spring 2021-2022) Instructor @ Contemporary Artificial Intelligence}, undergraduate level, ECNU, China.
+- (Spring 2021-2022) Instructor @ Deep Learning and Reinforcement Learning}, postgraduate level, ECNU, China.
+- (Fall 2021-2022) Instructor @ Contemporary Artificial Intelligence}, undergraduate level, ECNU, China.
+- (Spring 2020-2021) Instructor @Deep Learning and Reinforcement Learning}, postgraduate level, ECNU, China.
