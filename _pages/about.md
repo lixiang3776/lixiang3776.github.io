@@ -20,10 +20,10 @@ redirect_from:
 Welcome to my homepage! I am now research professor and also Ph.D. advisor in the <a href="http://dase.ecnu.edu.cn" target="_blank">School of Data Science and Engineering</a> at <a href="http://english.ecnu.edu.cn" target="_blank">East China Normal University</a>, leading the PLANING lab (graPh mining and LANguage processING ☺). Before that, I received my Ph.D. degree from <a href="http://www.hku.hk/" target="_blank">The University of Hong Kong</a> in 2018, M.Eng. degree from <a href="http://www.ustc.edu.cn/">University of Science and Technology of China</a> in 2014 and B.Eng. degree from <a href="http://www.ncu.edu.cn/">Nanchang University</a> in 2011, respectively. Previously, I worked as a research scientist in the [Data Science Lab](https://datascience.jd.com) at JD.com from Aug 2018 to July 2019 and a postdoc researcher in <a href="http://www.hku.hk/" target="_blank">The University of Hong Kong</a> from July 2019 to Dec 2020.
 
 My general research interests focus on data mining and applied machine learning, in particular, on graph mining, semi-supervised learning and part of NLP related tasks. Generally speaking, I have spent lots of efforts in classification, clustering, link prediction and other generative tasks in graphs. Moreover, I like to explore some misc problems of challenge, such as reinforcement learning, crowdsourcing and NLP techniques. Specifically, my research interests include:
-- Machine learning: semi-supervised learning, self-supervised learning, weakly-supervised learning, graph-based learning;
-- Data mining: graph neural networks, heterogeneous graph mining, OOD generalizability;
-- Language processing: large language models (LLMs), code representation learning, prompt tuning;
-- Data privacy: federated learning, data heterogeneity, model heterogeneity.
+- **Machine learning**: semi-supervised learning, self-supervised learning, weakly-supervised learning, graph-based learning;
+- **Data mining**: graph neural networks, heterogeneous graph mining, OOD generalizability;
+- **Language processing**: large language models (LLMs), code representation learning, prompt tuning;
+- **Data privacy**: federated learning, data heterogeneity, model heterogeneity.
 
 For students who are interested in working and collaborating with me, feel free to reach out to me if you want to conduct cutting-edge researches.
 
