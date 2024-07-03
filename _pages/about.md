@@ -64,11 +64,11 @@ My general research interests focus on data mining and applied machine learning,
 </style>  
 <div class="scrollable-area">  
     <ul>
-        <li><em>2024.06</em>: 🥂🥂 three papers are accepted by ECML-PKDD 2024! </li>
-        <li><em>2024.05</em>: 🥂🥂 one paper is accepted by KDD 2024! See you in Barcelona!</li>
-        <li><em>2024.05</em>: 🥂🥂 one paper is accepted by ACL 2024! See you in Bangkok!</li>
+        <li><em>2024.06</em>: 🥂🥂 Three papers are accepted by ECML-PKDD 2024! </li>
+        <li><em>2024.05</em>: 🥂🥂 One paper is accepted by KDD 2024! See you in Barcelona!</li>
+        <li><em>2024.05</em>: 🥂🥂 One paper is accepted by ACL 2024! See you in Bangkok!</li>
         <li><em>2024.03</em>: 📑📑 Check out our <a href="https://arxiv.org/abs/2403.14734">Code Intelligence Survey Paper</a>🔥</li>  
-        <li><em>2024.01</em>: 📑📑 Check out our <a href="https://arxiv.org/abs/2401.09769">Learning from Graphs with Heterophily: Progress and Future</a>🔥</li>
+        <li><em>2024.01</em>: 📑📑 Check out our survey paper: <a href="https://arxiv.org/abs/2401.09769">Learning from Graphs with Heterophily: Progress and Future</a>🔥</li>
     </ul>  
 </div>  
 
