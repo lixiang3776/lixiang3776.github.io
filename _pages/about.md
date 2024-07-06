@@ -66,6 +66,8 @@ My general research interests focus on data mining and applied machine learning,
 </style>  
 <div class="scrollable-area">  
     <ul>
+        <li><em>2024.07</em>: 🥂🥂 Give a talk at NUDT on Federated Learning with data and model heterogeneity! </li>
+        <li><em>2024.06</em>: 🥂🥂 Give a talk at SDU on Heterophilous graph learning! </li>
         <li><em>2024.06</em>: 🥂🥂 Three papers are accepted by ECML-PKDD 2024! </li>
         <li><em>2024.05</em>: 🥂🥂 One paper is accepted by KDD 2024! See you in Barcelona!</li>
         <li><em>2024.05</em>: 🥂🥂 One paper is accepted by ACL 2024! See you in Bangkok!</li>
