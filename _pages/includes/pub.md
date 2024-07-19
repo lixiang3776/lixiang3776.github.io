@@ -3,6 +3,18 @@
 
 <ul>
 	<li>
+	<a href=""><i>GraphCBAL: Class-Balanced Active Learning for Graph Neural Networks via Reinforcement Learning</i></a>,<br> 
+		Chengcheng Yu, Jiapeng Zhu, <b>Xiang Li*</b>. <br>
+		In <b><i>CIKM 2024</i></b>, Boise, Idaho, USA.
+		<br>
+	</li>
+    <li>
+	<a href=""><i>Corex: Pushing the Boundaries of Complex Reasoning through Multi-Model Collaboration</i></a>,<br> 
+		Qiushi Sun, Zhangyue Yin, <b>Xiang Li</b>, Zhiyong Wu, Xipeng Qiu, Lingpeng Kong. <br>
+		In <b><i>COLM 2024</i></b>, Philadelphia, USA.
+		<br>
+	</li>
+    <li>
 	<a href=""><i>Self-Pro: Self-Prompt and Tuning Framework for Graph Neural Networks</i></a>,<br> 
 		Chenghua Gong, <b>Xiang Li*</b>, Jianxiang Yu, Yao Cheng, Jiaqi Tan, Chengcheng Yu. <br>
 		In <b><i>ECML-PKDD 2024</i></b>, Vilnius, Lithuania.
