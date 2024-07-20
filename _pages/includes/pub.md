@@ -45,6 +45,12 @@
 		<br>
 	</li>
 	<li>
+	<a href=""><i>Learning Prioritized Node-wise Message Propagation in Graph Neural Networks</i></a>,<br> 
+		Yao Cheng, <b>Xiang Li*</b>, Minjie Chen, Caihua Shan.<br>
+		In <b><i>TKDE 2024</i></b>.
+		<br>
+	</li>
+    <li>
 	<a href=""><i>Heterogeneous Graph Contrastive Learning with Meta-path Contexts and Adaptively Weighted Negative Samples</i></a>,<br> 
 		Jianxiang Yu, Qingqing Ge, <b>Xiang Li*</b>, Aoying Zhou.<br>
 		In <b><i>TKDE 2024</i></b>.
