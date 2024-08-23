@@ -227,7 +227,7 @@
 	<li>
 	<a href="https://arxiv.org/pdf/2207.09179.pdf"><i>SCARA: Scalable Graph Neural Networks with Feature-Oriented Optimization</i></a>,<br> 
 		Ningyi Liao, Dingheng Mo, Siqiang Luo, <b>Xiang Li</b>, Pengcheng Yin.<br>
-		In <b><i>PVLDB 2022</i></b>, Sydney, Australia.</a>    
+		In <b><i>PVLDB 2022</i></b>, Sydney, Australia.    
 		<br>
 	</li>
 	<li>
