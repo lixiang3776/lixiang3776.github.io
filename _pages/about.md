@@ -66,6 +66,9 @@ My general research interests focus on data mining and applied machine learning,
 </style>  
 <div class="scrollable-area">  
     <ul>
+        <li><em>2024.08</em>: 🥂🥂 Attend KDD 2024@Barcelona! </li>
+        <li><em>2024.08</em>: 🥂🥂 Attend ACL 2024@Bangkok! </li>
+        <li><em>2024.08</em>: 🥂🥂 Host a forum on large-scale graph-structured data analysis and management at NDBC 2024@Urumqi! </li>
         <li><em>2024.07</em>: 🥂🥂 Give a talk at CSIAM-BDAI 2024@Yinchuan on Heterophilous graph learning! </li>
         <li><em>2024.07</em>: 🥂🥂 Give a talk at NUDT on Federated Learning with data and model heterogeneity! </li>
         <li><em>2024.06</em>: 🥂🥂 Give a talk at SDU on Heterophilous graph learning! </li>
