@@ -221,7 +221,7 @@
 	<li>
 	<a href="https://arxiv.org/abs/2205.07308"><i>Finding Global Homophily in Graph Neural Networks When Meeting Heterophily</i></a>,<br> 
 		<b>Xiang Li</b>, Renyu Zhu, Yao Cheng, Caihua Shan, Siqiang Luo, Dongsheng Li, Weining Qian.<br>
-		In <b><i>ICML 2022</i></b>, Baltimore, USA. <a href="https://github.com/lixiang3776/lixiang3776.github.io/blob/master/slices.pdf">[Slices] </a>    
+		In <b><i>ICML 2022</i></b>, Baltimore, USA. <b>(Spotlight)</b> <a href="https://github.com/lixiang3776/lixiang3776.github.io/blob/master/slices.pdf">[Slices] </a>    
 		<br>
 	</li>
 	<li>
