@@ -2,6 +2,12 @@
 
 
 <ul>
+    <li>
+	<a href=""><i>DFDG: Data-Free Dual-Generator Adversarial Distillation for One-Shot Federated Learning</i></a>,<br> 
+		Kangyang Luo, Shuai Wang, Yexuan Fu, Renrong Shao, <b>Xiang Li*</b>, Yunshi Lan, Ming Gao, Jinlong Shu. <br>
+		In <b><i>ICDM 2024</i></b>, Dubai, UAE. <b>(Regular paper, Top 66/604)</b> 
+		<br>
+	</li>
 	<li>
 	<a href=""><i>GraphCBAL: Class-Balanced Active Learning for Graph Neural Networks via Reinforcement Learning</i></a>,<br> 
 		Chengcheng Yu, Jiapeng Zhu, <b>Xiang Li*</b>. <br>
