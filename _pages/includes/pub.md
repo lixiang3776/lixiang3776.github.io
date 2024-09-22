@@ -3,6 +3,12 @@
 
 <ul>
     <li>
+	<a href=""><i>Automated Peer Reviewing in Paper SEA: Standardization, Evaluation, and Analysis</i></a>,<br> 
+        Jianxiang Yu, Zichen Ding, Jiaqi Tan, Kangyang Luo, Zhenmin Weng, Chenghua Gong, Long Zeng, RenJing Cui, Chengcheng Han, Qiushi Sun, Zhiyong Wu, Yunshi Lan, <b>Xiang Li*</b>. <br>
+		In <b><i>EMNLP Findings 2024</i></b>, Miami, USA.
+		<br>
+	</li>
+    <li>
 	<a href=""><i>DFDG: Data-Free Dual-Generator Adversarial Distillation for One-Shot Federated Learning</i></a>,<br> 
 		Kangyang Luo, Shuai Wang, Yexuan Fu, Renrong Shao, <b>Xiang Li*</b>, Yunshi Lan, Ming Gao, Jinlong Shu. <br>
 		In <b><i>ICDM 2024</i></b>, Dubai, UAE. <b>(Regular paper, Top 66/604)</b> 
