@@ -3,6 +3,12 @@
 
 <ul>
     <li>
+	<a href=""><i>Cross-model Control: Improving Multiple Large Language Models in One-time Training</i></a>,<br> 
+       Jiayi Wu, Hao Sun, Hengyi Cai, Lixin Su, Shuaiqiang Wang, Dawei Yin, <b>Xiang Li*</b>, Ming Gao. <br>
+		In <b><i>NeurIPS 2024</i></b>, Vancouver, Canada.
+		<br>
+	</li>
+    <li>
 	<a href=""><i>Automated Peer Reviewing in Paper SEA: Standardization, Evaluation, and Analysis</i></a>,<br> 
         Jianxiang Yu, Zichen Ding, Jiaqi Tan, Kangyang Luo, Zhenmin Weng, Chenghua Gong, Long Zeng, RenJing Cui, Chengcheng Han, Qiushi Sun, Zhiyong Wu, Yunshi Lan, <b>Xiang Li*</b>. <br>
 		In <b><i>EMNLP Findings 2024</i></b>, Miami, USA.
