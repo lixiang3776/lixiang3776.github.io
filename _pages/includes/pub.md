@@ -3,6 +3,18 @@
 
 <ul>
     <li>
+	<a href=""><i>RELIEF: Reinforcement Learning Empowered Graph Feature Prompt Tuning</i></a>,<br> 
+       Jiapeng Zhu, Zichen Ding, Jianxiang Yu, Jiaqi Tan, <b>Xiang Li*</b>. <br>
+		In <b><i>KDD 2025</i></b>, Toronto, Canada.
+		<br>
+	</li>
+    <li>
+	<a href=""><i>Variational Graph Autoencoder for Heterogeneous Information Networks with Missing and Inaccurate Attributes</i></a>,<br> 
+        Yige Zhao, Jianxiang Yu, Yao Cheng, Chengcheng Yu, Yiding Liu, <b>Xiang Li*</b>, Shuaiqiang Wang. <br>
+		In <b><i>KDD 2025</i></b>, Toronto, Canada.
+		<br>
+	</li>
+    <li>
 	<a href=""><i>Cross-model Control: Improving Multiple Large Language Models in One-time Training</i></a>,<br> 
        Jiayi Wu, Hao Sun, Hengyi Cai, Lixin Su, Shuaiqiang Wang, Dawei Yin, <b>Xiang Li*</b>, Ming Gao. <br>
 		In <b><i>NeurIPS 2024</i></b>, Vancouver, Canada.
