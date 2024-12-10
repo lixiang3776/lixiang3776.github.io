@@ -3,25 +3,25 @@
 
 <ul>
     <li>
-	<a href=""><i>Leveraging Large Language Models for Node Generation in Few-Shot Learning on Text-Attributed Graphs</i></a>,<br> 
+	<a href="https://arxiv.org/pdf/2310.09872"><i>Leveraging Large Language Models for Node Generation in Few-Shot Learning on Text-Attributed Graphs</i></a>,<br> 
        Jianxiang Yu, Yuxiang Ren, Chenghua Gong, Jiaqi Tan, <b>Xiang Li*</b>, Xuecang Zhang. <br>
 		In <b><i>AAAI 2025</i></b>, Philadelphia, USA.
 		<br>
 	</li>
     <li>
-	<a href=""><i>RELIEF: Reinforcement Learning Empowered Graph Feature Prompt Tuning</i></a>,<br> 
+	<a href="https://arxiv.org/pdf/2408.03195"><i>RELIEF: Reinforcement Learning Empowered Graph Feature Prompt Tuning</i></a>,<br> 
        Jiapeng Zhu, Zichen Ding, Jianxiang Yu, Jiaqi Tan, <b>Xiang Li*</b>. <br>
 		In <b><i>KDD 2025</i></b>, Toronto, Canada.
 		<br>
 	</li>
     <li>
-	<a href=""><i>Variational Graph Autoencoder for Heterogeneous Information Networks with Missing and Inaccurate Attributes</i></a>,<br> 
+	<a href="https://arxiv.org/pdf/2311.07929"><i>Variational Graph Autoencoder for Heterogeneous Information Networks with Missing and Inaccurate Attributes</i></a>,<br> 
         Yige Zhao, Jianxiang Yu, Yao Cheng, Chengcheng Yu, Yiding Liu, <b>Xiang Li*</b>, Shuaiqiang Wang. <br>
 		In <b><i>KDD 2025</i></b>, Toronto, Canada.
 		<br>
 	</li>
     <li>
-	<a href=""><i>Cross-model Control: Improving Multiple Large Language Models in One-time Training</i></a>,<br> 
+	<a href="https://arxiv.org/pdf/2410.17599"><i>Cross-model Control: Improving Multiple Large Language Models in One-time Training</i></a>,<br> 
        Jiayi Wu, Hao Sun, Hengyi Cai, Lixin Su, Shuaiqiang Wang, Dawei Yin, <b>Xiang Li*</b>, Ming Gao. <br>
 		In <b><i>NeurIPS 2024</i></b>, Vancouver, Canada.
 		<br>
