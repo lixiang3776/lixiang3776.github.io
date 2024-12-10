@@ -3,6 +3,12 @@
 
 <ul>
     <li>
+	<a href=""><i>Leveraging Large Language Models for Node Generation in Few-Shot Learning on Text-Attributed Graphs</i></a>,<br> 
+       Jianxiang Yu, Yuxiang Ren, Chenghua Gong, Jiaqi Tan, <b>Xiang Li*</b>, Xuecang Zhang. <br>
+		In <b><i>AAAI 2025</i></b>, Philadelphia, USA.
+		<br>
+	</li>
+    <li>
 	<a href=""><i>RELIEF: Reinforcement Learning Empowered Graph Feature Prompt Tuning</i></a>,<br> 
        Jiapeng Zhu, Zichen Ding, Jianxiang Yu, Jiaqi Tan, <b>Xiang Li*</b>. <br>
 		In <b><i>KDD 2025</i></b>, Toronto, Canada.
