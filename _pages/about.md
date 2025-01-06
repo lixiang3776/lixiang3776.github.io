@@ -25,6 +25,7 @@ My current research interests lie in fusing graph-based learning with LLMs. In p
 Specifically, my research interests include:
 - **Graph4LLM**: Graph RAG; Knowledge graph enhanced LLM;
 - **LLM4Graph**: LLM and graph alignment; graph summarization.
+- **LLM-based Applications:** toxic speech detection; automated paper reviewing; fintech applications.
 
 &#9733;&#9733;&#9733;For students who are interested in working and collaborating with me, feel free to reach out to me if you want to conduct cutting-edge researches.
 
