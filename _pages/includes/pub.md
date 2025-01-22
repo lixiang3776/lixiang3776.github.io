@@ -3,6 +3,12 @@
 
 <ul>
     <li>
+	<a href="https://arxiv.org/pdf/2310.09872"><i>Hierarchical Vector Quantized Graph Autoencoder with Annealing-Based Code Selection</i></a>,<br> 
+       Long Zeng, Jianxiang Yu, Jiapeng Zhu, Qingsong Zhong, <b>Xiang Li*</b>. <br>
+        In <b><i>WWW 2025</i></b>, Sydney, Australia.
+		<br>
+	</li>
+    <li>
 	<a href="https://arxiv.org/pdf/2310.09872"><i>Leveraging Large Language Models for Node Generation in Few-Shot Learning on Text-Attributed Graphs</i></a>,<br> 
        Jianxiang Yu, Yuxiang Ren, Chenghua Gong, Jiaqi Tan, <b>Xiang Li*</b>, Xuecang Zhang. <br>
 		In <b><i>AAAI 2025</i></b>, Philadelphia, USA.
