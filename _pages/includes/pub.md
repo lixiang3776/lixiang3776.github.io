@@ -3,7 +3,13 @@
 
 <ul>
     <li>
-	<a href="https://arxiv.org/pdf/2310.09872"><i>Hierarchical Vector Quantized Graph Autoencoder with Annealing-Based Code Selection</i></a>,<br> 
+	<a href=""><i>PA-RAG: RAG Alignment via Multi-Perspective Preference Optimization</i></a>,<br> 
+       Jiayi Wu, Hengyi Cai, Lingyong Yan, Hao Sun, <b>Xiang Li*</b>, Shuaiqiang Wang, Dawei Yin, Ming Gao. <br>
+        In <b><i>NAACL 2025</i></b>, Albuquerque, New Mexico, USA.
+		<br>
+	</li>
+    <li>
+	<a href=""><i>Hierarchical Vector Quantized Graph Autoencoder with Annealing-Based Code Selection</i></a>,<br> 
        Long Zeng, Jianxiang Yu, Jiapeng Zhu, Qingsong Zhong, <b>Xiang Li*</b>. <br>
         In <b><i>WWW 2025</i></b>, Sydney, Australia.
 		<br>
