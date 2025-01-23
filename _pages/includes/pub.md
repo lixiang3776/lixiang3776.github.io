@@ -16,7 +16,7 @@
 	</li>
     <li>
 	<a href="https://arxiv.org/pdf/2310.09872"><i>Leveraging Large Language Models for Node Generation in Few-Shot Learning on Text-Attributed Graphs</i></a>,<br> 
-       Jianxiang Yu, Yuxiang Ren, Chenghua Gong, Jiaqi Tan, <b>Xiang Li*</b>, Xuecang Zhang. <br>
+       Jianxiang Yu, Yuxiang Ren*, Chenghua Gong, Jiaqi Tan, <b>Xiang Li*</b>, Xuecang Zhang. <br>
 		In <b><i>AAAI 2025</i></b>, Philadelphia, USA.
 		<br>
 	</li>
