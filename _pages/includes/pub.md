@@ -3,6 +3,12 @@
 
 <ul>
     <li>
+	<a href=""><i>A Survey on Learning from Graphs with Heterophily: Recent Advances and Future Directions</i></a>,<br> 
+       Chenghua Gong, Yao Cheng, Jianxiang Yu, Can Xu, Caihua Shan, Siqiang Luo, <b>Xiang Li*</b>. <br>
+        In <b><i>Frontiers of Computer Science, 2025</i></b>.
+		<br>
+	</li>
+    <li>
 	<a href=""><i>PA-RAG: RAG Alignment via Multi-Perspective Preference Optimization</i></a>,<br> 
        Jiayi Wu, Hengyi Cai, Lingyong Yan, Hao Sun, <b>Xiang Li*</b>, Shuaiqiang Wang, Dawei Yin, Ming Gao. <br>
         In <b><i>NAACL 2025</i></b>, Albuquerque, New Mexico, USA.
