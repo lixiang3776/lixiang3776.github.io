@@ -3,6 +3,24 @@
 
 <ul>
     <li>
+	<a href=""><i>Enhancing LLM-based Hatred and Toxicity Detection with Meta-Toxic Knowledge Graph</i></a>,<br> 
+       Yibo Zhao, Jiapeng Zhu, Can Xu, Yao Liu*, <b>Xiang Li*</b>. <br>
+        In <b><i>ACL Findings, 2025</i></b>.
+		<br>
+	</li>
+    <li>
+	<a href=""><i>Initializing and Retrofitting Key-Value Adaptors for Traceable Model Editing</i></a>,<br> 
+       Hanlun Zhu, Yunshi Lan, <b>Xiang Li*</b>, Weining Qian. <br>
+        In <b><i>ACL Findings, 2025</i></b>.
+		<br>
+	</li>
+    <li>
+	<a href=""><i>Let's Be Self-generated via Step by Step: A Curriculum Learning Approach to Automated Reasoning with Large Language Models</i></a>,<br> 
+       Kangyang Luo, Zichen Ding, Zhenmin Weng, Lingfeng Qiao, Meng Zhao, <b>Xiang Li*</b>, Di Yin, Jinlong Shu. <br>
+        In <b><i>ACL Findings, 2025</i></b>.
+		<br>
+	</li>
+    <li>
 	<a href=""><i>A Survey on Learning from Graphs with Heterophily: Recent Advances and Future Directions</i></a>,<br> 
        Chenghua Gong, Yao Cheng, Jianxiang Yu, Can Xu, Caihua Shan, Siqiang Luo, <b>Xiang Li*</b>. <br>
         In <b><i>Frontiers of Computer Science, 2025</i></b>.
