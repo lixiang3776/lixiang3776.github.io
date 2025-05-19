@@ -10,7 +10,7 @@
 	</li>
     <li>
 	<a href=""><i>Initializing and Retrofitting Key-Value Adaptors for Traceable Model Editing</i></a>,<br> 
-       Hanlun Zhu, Yunshi Lan, <b>Xiang Li*</b>, Weining Qian. <br>
+       Hanlun Zhu, Yunshi Lan, <b>Xiang Li</b>, Weining Qian. <br>
         In <b><i>ACL Findings, 2025</i></b>.
 		<br>
 	</li>
