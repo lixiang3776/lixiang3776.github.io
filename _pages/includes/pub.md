@@ -4,13 +4,13 @@
 <ul>
     <li>
 	<a href=""><i>Can Large Language Models Act as Ensembler for Multi-GNNs?</i></a>,<br> 
-       Hanqi Duan, Yao Cheng, Jianxiang Yu, Yao Liu, <b>Xiang Li</b>. <br>
+       Hanqi Duan, Yao Cheng, Jianxiang Yu, Yao Liu, <b>Xiang Li*</b>. <br>
         In <b><i>EMNLP, 2025</i></b>.
 		<br>
 	</li>
     <li>
 	<a href=""><i>Text Detoxification: Data Efficiency, Semantic Preservation and Model Generalization</i></a>,<br> 
-       Jing Yu, Yibo Zhao, Jiapeng Zhu, Wenming Shao, Bo Pang, Zhao Zhang, <b>Xiang Li</b>. <br>
+       Jing Yu, Yibo Zhao, Jiapeng Zhu, Wenming Shao, Bo Pang, Zhao Zhang, <b>Xiang Li*</b>. <br>
         In <b><i>EMNLP, 2025</i></b>.
 		<br>
 	</li>
