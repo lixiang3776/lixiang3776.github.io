@@ -3,6 +3,24 @@
 
 <ul>
     <li>
+	<a href=""><i>Can Large Language Models Act as Ensembler for Multi-GNNs?</i></a>,<br> 
+       Hanqi Duan, Yao Cheng, Jianxiang Yu, Yao Liu, <b>Xiang Li</b>. <br>
+        In <b><i>EMNLP, 2025</i></b>.
+		<br>
+	</li>
+    <li>
+	<a href=""><i>Text Detoxification: Data Efficiency, Semantic Preservation and Model Generalization</i></a>,<br> 
+       Jing Yu, Yibo Zhao, Jiapeng Zhu, Wenming Shao, Bo Pang, Zhao Zhang, <b>Xiang Li</b>. <br>
+        In <b><i>EMNLP, 2025</i></b>.
+		<br>
+	</li>
+    <li>
+	<a href=""><i>Permitted Knowledge Boundary: Evaluating the Knowledge-Constrained Responsiveness of Large Language Models</i></a>,<br> 
+       Wenrui Bao, Kai Wang, Siqiang Luo, <b>Xiang Li</b>. <br>
+        In <b><i>EMNLP Findings, 2025</i></b>.
+		<br>
+	</li>
+    <li>
 	<a href=""><i>Enhancing LLM-based Hatred and Toxicity Detection with Meta-Toxic Knowledge Graph</i></a>,<br> 
        Yibo Zhao, Jiapeng Zhu, Can Xu, Yao Liu*, <b>Xiang Li*</b>. <br>
         In <b><i>ACL Findings, 2025</i></b>.
