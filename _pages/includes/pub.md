@@ -3,39 +3,51 @@
 
 <ul>
     <li>
-	<a href=""><i>Can Large Language Models Act as Ensembler for Multi-GNNs?</i></a>,<br> 
-       Hanqi Duan, Yao Cheng, Jianxiang Yu, Yao Liu, <b>Xiang Li*</b>. <br>
-        In <b><i>EMNLP, 2025</i></b>.
+	<a href="https://arxiv.org/abs/2410.16822"><i>Can Large Language Models Act as Ensembler for Multi-GNNs?</i></a>,<br> 
+       Hanqi Duan, Yao Cheng, Jianxiang Yu, Yao Liu*, <b>Xiang Li*</b>. <br>
+        In <b><i>EMNLP, 2025</i></b>, Suzhou, China.
 		<br>
 	</li>
     <li>
 	<a href=""><i>Text Detoxification: Data Efficiency, Semantic Preservation and Model Generalization</i></a>,<br> 
        Jing Yu, Yibo Zhao, Jiapeng Zhu, Wenming Shao, Bo Pang, Zhao Zhang, <b>Xiang Li*</b>. <br>
-        In <b><i>EMNLP, 2025</i></b>.
+        In <b><i>EMNLP, 2025</i></b>, Suzhou, China.
 		<br>
 	</li>
     <li>
 	<a href=""><i>Permitted Knowledge Boundary: Evaluating the Knowledge-Constrained Responsiveness of Large Language Models</i></a>,<br> 
        Wenrui Bao, Kai Wang, Siqiang Luo, <b>Xiang Li</b>. <br>
-        In <b><i>EMNLP Findings, 2025</i></b>.
+        In <b><i>EMNLP Findings, 2025</i></b>, Suzhou, China.
+		<br>
+	</li>
+    <li>
+	<a href=""><i>Boosting Cross-Domain and Cross-Task Generalization for Text-Attributed Graphs from Structural Perspective</i></a>,<br> 
+       Yao Cheng, Jiapeng Zhu, Yige Zhao, Jianxiang Yu, Jiaqi Tan, <b>Xiang Li*</b>. <br>
+        In <b><i>Frontiers of Computer Science, 2025</i></b>.
+		<br>
+	</li>
+    <li>
+	<a href=""><i>Towards Instance-wise Personalized Federated Learning via Semi-Implicit Bayesian Prompt Tuning</i></a>,<br> 
+       Tiandi Ye, Wenyan Liu, Kai Yao, Lichun Li, Shangchao Su, Cen Chen, <b>Xiang Li</b>, Shan Yin, Ming Gao. <br>
+        In <b><i>CIKM 2025</i></b>, Seoul, Korea.
 		<br>
 	</li>
     <li>
 	<a href=""><i>Enhancing LLM-based Hatred and Toxicity Detection with Meta-Toxic Knowledge Graph</i></a>,<br> 
        Yibo Zhao, Jiapeng Zhu, Can Xu, Yao Liu*, <b>Xiang Li*</b>. <br>
-        In <b><i>ACL Findings, 2025</i></b>.
+        In <b><i>ACL Findings, 2025</i></b>, Vienna, Austria.
 		<br>
 	</li>
     <li>
 	<a href=""><i>Initializing and Retrofitting Key-Value Adaptors for Traceable Model Editing</i></a>,<br> 
        Hanlun Zhu, Yunshi Lan, <b>Xiang Li</b>, Weining Qian. <br>
-        In <b><i>ACL Findings, 2025</i></b>.
+        In <b><i>ACL Findings, 2025</i></b>, Vienna, Austria.
 		<br>
 	</li>
     <li>
 	<a href=""><i>Let's Be Self-generated via Step by Step: A Curriculum Learning Approach to Automated Reasoning with Large Language Models</i></a>,<br> 
        Kangyang Luo, Zichen Ding, Zhenmin Weng, Lingfeng Qiao, Meng Zhao, <b>Xiang Li*</b>, Di Yin, Jinlong Shu. <br>
-        In <b><i>ACL Findings, 2025</i></b>.
+        In <b><i>ACL Findings, 2025</i></b>, Vienna, Austria.
 		<br>
 	</li>
     <li>
