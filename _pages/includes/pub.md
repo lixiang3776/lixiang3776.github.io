@@ -3,6 +3,18 @@
 
 <ul>
     <li>
+	<a href=""><i>Human Cognition Inspired RAG with Knowledge Graph for Complex Problem Solving</i></a>,<br> 
+       Yao Cheng, Yibo Zhao, Jiapeng Zhu, Yao Liu*, Xing Sun, <b>Xiang Li*</b>. <br>
+        In <b><i>AAAI, 2026</i></b>, Singapore.
+		<br>
+	</li>
+    <li>
+	<a href=""><i>SEAGraph: Unveiling the Whole Story of Paper Review Comments</i></a>,<br> 
+       Jianxiang Yu, Jiaqi Tan, Zichen Ding, Jiapeng Zhu, Jiahao Li, Yao Cheng, Qier Cui, Yunshi Lan, Yao Liu, <b>Xiang Li*</b>. <br>
+        In <b><i>IJCNLP-AACL, 2025</i></b>, Mumbai, India.
+		<br>
+	</li>
+    <li>
 	<a href="https://arxiv.org/abs/2410.16822"><i>Can Large Language Models Act as Ensembler for Multi-GNNs?</i></a>,<br> 
        Hanqi Duan, Yao Cheng, Jianxiang Yu, Yao Liu*, <b>Xiang Li*</b>. <br>
         In <b><i>EMNLP, 2025</i></b>, Suzhou, China.
