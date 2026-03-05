@@ -3,6 +3,18 @@
 
 <ul>
     <li>
+	<a href=""><i>ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic Scientific Workflows</i></a>,<br> 
+       Qiushi Sun, Zhoumianze Liu, Chang Ma, Zichen Ding, Fangzhi Xu, Zhangyue Yin, Haiteng Zhao, Zhenyu Wu, Kanzhi Cheng, Zhaoyang Liu, Jianing Wang, Qintong Li, Xiangru Tang, Tianbao Xie, Xiachong Feng, <b>Xiang Li</b>, Ben Kao, Wenhai Wang, Biqing Qi, Lingpeng Kong, Zhiyong Wu. <br>
+        In <b><i>ICLR, 2026</i></b>, Rio de Janeiro, Brazil.
+		<br>
+	</li>
+    <li>
+	<a href=""><i>Unsupervised Text Style Transfer for Controllable Intensity</i></a>,<br> 
+       Shuhuan Gu, Wenbiao Tao, Xinchen Ma, Kangkang He, Ye Guo, <b>Xiang Li</b>, Yunshi Lan. <br>
+        In <b><i>EACL, 2026</i></b>, Rabat, Morocco.
+		<br>
+	</li>
+    <li>
 	<a href=""><i>Human Cognition Inspired RAG with Knowledge Graph for Complex Problem Solving</i></a>,<br> 
        Yao Cheng, Yibo Zhao, Jiapeng Zhu, Yao Liu*, Xing Sun, <b>Xiang Li*</b>. <br>
         In <b><i>AAAI, 2026</i></b>, Singapore.
