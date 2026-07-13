@@ -3,6 +3,18 @@
 
 <ul>
     <li>
+	<a href=""><i>RATE: Reviewer Profiling and Annotation-free Training for Expertise Ranking in Peer Review Systems</i></a>,<br> 
+       Weicong Liu, Zixuan Yang, Yibo Zhao, <b>Xiang Li</b>. <br>
+        In <b><i>ACL, 2026</i></b>, San Diego, USA.
+		<br>
+	</li>
+    <li>
+	<a href=""><i>Adversarial Yet Cooperative: Multi-Perspective Reasoning in Retrieved-Augmented Language Models</i></a>,<br> 
+       Can Xu, Lingyong Yan, Jiayi Wu, Haosen Wang, Shuaiqiang Wang, Yuchen Li, Jizhou Huang, Dawei Yin, <b>Xiang Li</b>. <br>
+        In <b><i>ACL Findings, 2026</i></b>, San Diego, USA.
+		<br>
+	</li>
+    <li>
 	<a href=""><i>ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic Scientific Workflows</i></a>,<br> 
        Qiushi Sun, Zhoumianze Liu, Chang Ma, Zichen Ding, Fangzhi Xu, Zhangyue Yin, Haiteng Zhao, Zhenyu Wu, Kanzhi Cheng, Zhaoyang Liu, Jianing Wang, Qintong Li, Xiangru Tang, Tianbao Xie, Xiachong Feng, <b>Xiang Li</b>, Ben Kao, Wenhai Wang, Biqing Qi, Lingpeng Kong, Zhiyong Wu. <br>
         In <b><i>ICLR, 2026</i></b>, Rio de Janeiro, Brazil.
