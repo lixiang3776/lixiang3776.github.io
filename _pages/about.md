@@ -21,11 +21,12 @@ Welcome to my homepage! I am now a research professor and also a Ph.D. advisor i
 M.Eng. degree from <a href="http://www.ustc.edu.cn/">University of Science and Technology of China</a> in 2014 and B.Eng. degree from <a href="http://www.ncu.edu.cn/">Nanchang University</a> in 2011, respectively. Previously, I worked as a research scientist in the [Data Science Lab](https://datascience.jd.com) at JD.com from Aug 2018 to July 2019 and a postdoc researcher in <a href="http://www.hku.hk/" target="_blank">The University of Hong Kong</a> from July 2019 to Dec 2020.
 I was also lucky to visit [Microsoft Research Asia, Shanghai](https://www.microsoft.com/en-us/research/group/shanghai-ai-ml-group/) from Dec. 2021 to March 2022, and [Baidu Search BU](https://www.baidu.com/) from June to August 2023.
 
-My current research interests lie in fusing graph-based learning with LLMs. In particular, I am concentrated in Graph4LLM and LLM4Graph. The former aims to incorporate graph-based learning into enhancing the performance of LLMs, while the latter employs LLMs to improve the performance of graph-related tasks. 
-Specifically, my research interests include:
-- **Graph4LLM**: Graph RAG; Knowledge graph enhanced LLM;
-- **LLM4Graph**: LLM and graph alignment; graph summarization.
-- **Graph-empowered LLM-based Applications:** toxic speech detection; automated paper reviewing; paper2poster; expert finding.
+My research lies at the intersection of graph machine learning, large language models, and intelligent data systems. My goal is to develop AI methods that combine structured knowledge and unstructured information for robust learning, reasoning, and decision-making.
+
+Specifically, my research includes:
+- **Graph Machine Learning**: graph neural networks, heterogeneous information networks, and knowledge graphs.
+- **Foundation Models and Agents**: large language models, retrieval-augmented generation, reasoning, and agents.
+- **AI-powered Data Applications**: content understanding and governance, scientific intelligence, knowledge discovery, and intelligent information retrieval.
 
 &#9733;&#9733;&#9733;For students who are interested in working and collaborating with me, feel free to reach out to me if you want to conduct cutting-edge researches.
 
