@@ -22,7 +22,7 @@ M.Eng. degree from <a href="http://www.ustc.edu.cn/">University of Science and T
 I was also lucky to visit [Microsoft Research Asia, Shanghai](https://www.microsoft.com/en-us/research/group/shanghai-ai-ml-group/) from Dec. 2021 to March 2022, and [Baidu Search BU](https://www.baidu.com/) from June to August 2023.
 
 My research lies at the intersection of graph machine learning, large language models, and intelligent data systems. My goal is to develop AI methods that combine structured knowledge and unstructured information for robust learning, reasoning, and decision-making.
-
+ 
 Specifically, my research includes:
 - **Graph Machine Learning**: graph neural networks, heterogeneous information networks, and knowledge graphs.
 - **Foundation Models and Agents**: large language models, retrieval-augmented generation, reasoning, and agents.
