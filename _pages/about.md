@@ -26,7 +26,7 @@ My research lies at the intersection of graph machine learning, large language m
 Specifically, my research includes:
 - **Graph Machine Learning**: graph neural networks, heterogeneous information networks, and knowledge graphs.
 - **Foundation Models and Agents**: large language models, retrieval-augmented generation, reasoning, and agents.
-- **AI-powered Data Applications**: content understanding and governance, scientific intelligence, knowledge discovery, and search.
+- **AI-powered Data Applications**: content understanding and governance, search and deep research.
 
 &#9733;&#9733;&#9733;For students who are interested in working and collaborating with me, feel free to reach out to me if you want to conduct cutting-edge researches.
 
