@@ -26,11 +26,11 @@ My research lies at the intersection of graph machine learning, large language m
 Specifically, my research includes:
 - **Graph Machine Learning**: graph neural networks, heterogeneous information networks, and knowledge graphs.
 - **Foundation Models and Agents**: large language models, retrieval-augmented generation, reasoning, and agents.
-- **AI-powered Data Applications**: content understanding and governance, scientific intelligence, knowledge discovery, and intelligent information retrieval.
+- **AI-powered Data Applications**: content understanding and governance, scientific intelligence, knowledge discovery, and search.
 
 &#9733;&#9733;&#9733;For students who are interested in working and collaborating with me, feel free to reach out to me if you want to conduct cutting-edge researches.
 
-&#9733;&#9733;&#9733;Available positions left for Fall semester, 2025: 0 master, 0 PhD. Please contact me if you want to pursue graduate study in my group.
+<!-- &#9733;&#9733;&#9733;Available positions left for Fall semester, 2025: 0 master, 0 PhD. Please contact me if you want to pursue graduate study in my group. -->
 
 <!-- I am an incoming Ph.D. student at [HKU CS](https://www.cs.hku.hk/). Currently, I am working at the NLP group of [Shanghai AI Lab](https://www.shlab.org.cn/) under the supervision of [Dr. Zhiyong Wu](https://lividwo.github.io/zywu.github.io/), focusing on topics related to LLM Agents. Previously, I was a master’s student at NUS, advised by [Dr. Xiaoli Li](https://www.a-star.edu.sg/i2r/about-i2r/i2r-management/li-xiaoli) at the Institute for Infocomm Research ([I<sup>2</sup>R](https://www.a-star.edu.sg/i2r)), A*STAR. Before that, I completed my B.Eng with distinction in the School of Data Science and Engineering ([DaSE](http://dase.ecnu.edu.cn/)) at East China Normal University, where I was privileged to be instructed by [Prof. Weining Qian](http://dase.ecnu.edu.cn/dase-module-gateway/dase/teacher/single_teacher.html?teacherId=27), [Prof. Xuesong Lu](http://dase.ecnu.edu.cn/dase-module-gateway/dase/teacher/single_teacher.html?teacherId=40), and [Prof. Xiang Li](https://lixiang3776.github.io/) for research and engineering projects. -->
 
