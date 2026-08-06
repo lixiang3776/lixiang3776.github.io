@@ -24,7 +24,7 @@ I was also lucky to visit [Microsoft Research Asia, Shanghai](https://www.micros
 My research lies at the intersection of large language models, graph machine learning and intelligent data systems. My goal is to develop AI methods that combine structured knowledge and unstructured information for robust learning, reasoning, and decision-making.
  
 Specifically, my research includes:
-- **Foundation Models and Agents**: large language models, retrieval-augmented generation, reasoning, and agents.
+- **LLMs and Agents**: retrieval-augmented generation, reasoning, agentic AI and memory management.
 - **AI-powered Data Applications**: content understanding and governance, search and deep research.
 - **Graph Machine Learning**: graph neural networks, heterogeneous information networks, and knowledge graphs.
 
