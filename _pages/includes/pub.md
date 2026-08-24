@@ -3,61 +3,61 @@
 
 <ul>
     <li>
-	<a href=""><i>MERIT: Matching Expertise via Rubric-Informed Training for Reviewer Assignment</i></a>,<br> 
+	<a href="https://arxiv.org/pdf/2605.27865"><i>MERIT: Matching Expertise via Rubric-Informed Training for Reviewer Assignment</i></a>,<br> 
        Zixuan Yang, Yibo Zhao, Weicong Liu, <b>Xiang Li*</b>. <br>
         In <b><i>EMNLP, 2026</i></b>, Budapest, Hungary.
 		<br>
 	</li>
     <li>
-	<a href=""><i>Node-to-Neighborhood Semantic Consistency: Text-Topology Alignment for TAGs Anomaly Detection</i></a>,<br> 
+	<a href="https://arxiv.org/pdf/2606.30009"><i>Node-to-Neighborhood Semantic Consistency: Text-Topology Alignment for TAGs Anomaly Detection</i></a>,<br> 
        Bochen Lin, Jianxiang Yu, Jiayi Wu, Lin Qi, Lu Huang, <b>Xiang Li*</b>. <br>
         In <b><i>EMNLP Findings, 2026</i></b>, Budapest, Hungary.
 		<br>
 	</li>
     <li>
-    <a href=""><i>Skill0.5: Joint Skill Internalization and Utilization for Out-of-Distribution Generalization in Agentic Reinforcement Learning</i></a>,<br> 
-       Jiapeng Zhu, Jianxiang Yu, Yibo Zhao, Chengcheng Han, Qi Gu, Xunliang Cai, <b>Xiang Li*</b>, Weining Qian. <br>
+    <a href="https://arxiv.org/pdf/2605.28424"><i>Skill0.5: Joint Skill Internalization and Utilization for Out-of-Distribution Generalization in Agentic Reinforcement Learning</i></a>,<br> 
+       Jiapeng Zhu, Jianxiang Yu, Yibo Zhao, Chengcheng Han, Qi Gu*, Xunliang Cai, <b>Xiang Li*</b>, Weining Qian. <br>
         In <b><i>EMNLP Findings, 2026</i></b>, Budapest, Hungary.
 		<br>
 	</li>
     <li>
-    <a href=""><i>Breaking the Cloak! Unveiling Chinese Cloaked Toxicity with Homophone Graph and Toxic Lexicon</i></a>,<br> 
+    <a href="https://arxiv.org/pdf/2505.22184"><i>Breaking the Cloak! Unveiling Chinese Cloaked Toxicity with Homophone Graph and Toxic Lexicon</i></a>,<br> 
        Xuchen Ma, Jianxiang Yu, Wenming Shao, Bo Pang, <b>Xiang Li*</b>. <br>
         In <b><i>EMNLP Findings, 2026</i></b>, Budapest, Hungary.
 		<br>
 	</li>
     <li>
-    <a href=""><i>Negative Advantages Is a Double-Edged Sword: Calibrating advantages in GRPO for Search Agents</i></a>,<br> 
+    <a href="https://arxiv.org/pdf/2604.18235"><i>Negative Advantages Is a Double-Edged Sword: Calibrating advantages in GRPO for Search Agents</i></a>,<br> 
        Jiayi Wu, Ruobing Xie, Zeqian Huang, Lei Jiang, Can Xu, Kangyang Luo, Bochen Lin, Ming Gao, <b>Xiang Li*</b>. <br>
         In <b><i>EMNLP Findings, 2026</i></b>, Budapest, Hungary.
 		<br>
 	</li>
     <li>
-    <a href=""><i>APEX: Academic Poster Editing Agentic Expert</i></a>,<br> 
+    <a href="https://arxiv.org/pdf/2601.04794"><i>APEX: Academic Poster Editing Agentic Expert</i></a>,<br> 
        Chengxin Shi, Qinnan Cai, Zeyuan Chen, Long Zeng, Yibo Zhao, Jing Yu, Jianxiang Yu, <b>Xiang Li*</b>. <br>
         In <b><i>EMNLP Findings, 2026</i></b>, Budapest, Hungary.
 		<br>
 	</li>
     <li>
-    <a href=""><i>Beyond Chunk-Local Extraction: Cross-Chunk Graph Augmentation for GraphRAG</i></a>,<br> 
+    <a href="https://arxiv.org/pdf/2605.28004"><i>Beyond Chunk-Local Extraction: Cross-Chunk Graph Augmentation for GraphRAG</i></a>,<br> 
        Jiaming Zhang, Yibo Zhao, Jing Yu, Jianxiang Yu, <b>Xiang Li*</b>. <br>
         In <b><i>EMNLP Findings, 2026</i></b>, Budapest, Hungary.
 		<br>
 	</li>
     <li>
-	<a href=""><i>RATE: Reviewer Profiling and Annotation-free Training for Expertise Ranking in Peer Review Systems</i></a>,<br> 
+	<a href="https://arxiv.org/pdf/2601.19637"><i>RATE: Reviewer Profiling and Annotation-free Training for Expertise Ranking in Peer Review Systems</i></a>,<br> 
        Weicong Liu, Zixuan Yang, Yibo Zhao, <b>Xiang Li</b>. <br>
         In <b><i>ACL, 2026</i></b>, San Diego, USA.
 		<br>
 	</li>
     <li>
-	<a href=""><i>Adversarial Yet Cooperative: Multi-Perspective Reasoning in Retrieved-Augmented Language Models</i></a>,<br> 
+	<a href="https://arxiv.org/pdf/2601.04651"><i>Adversarial Yet Cooperative: Multi-Perspective Reasoning in Retrieved-Augmented Language Models</i></a>,<br> 
        Can Xu, Lingyong Yan, Jiayi Wu, Haosen Wang, Shuaiqiang Wang, Yuchen Li, Jizhou Huang, Dawei Yin, <b>Xiang Li</b>. <br>
         In <b><i>ACL Findings, 2026</i></b>, San Diego, USA.
 		<br>
 	</li>
     <li>
-	<a href=""><i>ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic Scientific Workflows</i></a>,<br> 
+	<a href="https://arxiv.org/pdf/2505.19897"><i>ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic Scientific Workflows</i></a>,<br> 
        Qiushi Sun, Zhoumianze Liu, Chang Ma, Zichen Ding, Fangzhi Xu, Zhangyue Yin, Haiteng Zhao, Zhenyu Wu, Kanzhi Cheng, Zhaoyang Liu, Jianing Wang, Qintong Li, Xiangru Tang, Tianbao Xie, Xiachong Feng, <b>Xiang Li</b>, Ben Kao, Wenhai Wang, Biqing Qi, Lingpeng Kong, Zhiyong Wu. <br>
         In <b><i>ICLR, 2026</i></b>, Rio de Janeiro, Brazil.
 		<br>
@@ -69,7 +69,7 @@
 		<br>
 	</li>
     <li>
-	<a href=""><i>Human Cognition Inspired RAG with Knowledge Graph for Complex Problem Solving</i></a>,<br> 
+	<a href="https://arxiv.org/pdf/2503.06567"><i>Human Cognition Inspired RAG with Knowledge Graph for Complex Problem Solving</i></a>,<br> 
        Yao Cheng, Yibo Zhao, Jiapeng Zhu, Yao Liu*, Xing Sun, <b>Xiang Li*</b>. <br>
         In <b><i>AAAI, 2026</i></b>, Singapore.
 		<br>
