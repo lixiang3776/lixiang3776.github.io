@@ -3,6 +3,48 @@
 
 <ul>
     <li>
+	<a href=""><i>MERIT: Matching Expertise via Rubric-Informed Training for Reviewer Assignment</i></a>,<br> 
+       Zixuan Yang, Yibo Zhao, Weicong Liu, <b>Xiang Li*</b>. <br>
+        In <b><i>EMNLP, 2026</i></b>, Budapest, Hungary.
+		<br>
+	</li>
+    <li>
+	<a href=""><i>Node-to-Neighborhood Semantic Consistency: Text-Topology Alignment for TAGs Anomaly Detection</i></a>,<br> 
+       Bochen Lin, Jianxiang Yu, Jiayi Wu, Lin Qi, Lu Huang, <b>Xiang Li*</b>. <br>
+        In <b><i>EMNLP Findings, 2026</i></b>, Budapest, Hungary.
+		<br>
+	</li>
+    <li>
+    <a href=""><i>Skill0.5: Joint Skill Internalization and Utilization for Out-of-Distribution Generalization in Agentic Reinforcement Learning</i></a>,<br> 
+       Jiapeng Zhu, Jianxiang Yu, Yibo Zhao, Chengcheng Han, Qi Gu, Xunliang Cai, <b>Xiang Li*</b>, Weining Qian. <br>
+        In <b><i>EMNLP Findings, 2026</i></b>, Budapest, Hungary.
+		<br>
+	</li>
+    <li>
+    <a href=""><i>Breaking the Cloak! Unveiling Chinese Cloaked Toxicity with Homophone Graph and Toxic Lexicon</i></a>,<br> 
+       Xuchen Ma, Jianxiang Yu, Wenming Shao, Bo Pang, <b>Xiang Li*</b>. <br>
+        In <b><i>EMNLP Findings, 2026</i></b>, Budapest, Hungary.
+		<br>
+	</li>
+    <li>
+    <a href=""><i>Negative Advantages Is a Double-Edged Sword: Calibrating advantages in GRPO for Search Agents</i></a>,<br> 
+       Jiayi Wu, Ruobing Xie, Zeqian Huang, Lei Jiang, Can Xu, Kangyang Luo, Bochen Lin, Ming Gao, <b>Xiang Li*</b>. <br>
+        In <b><i>EMNLP Findings, 2026</i></b>, Budapest, Hungary.
+		<br>
+	</li>
+    <li>
+    <a href=""><i>APEX: Academic Poster Editing Agentic Expert</i></a>,<br> 
+       Chengxin Shi, Qinnan Cai, Zeyuan Chen, Long Zeng, Yibo Zhao, Jing Yu, Jianxiang Yu, <b>Xiang Li*</b>. <br>
+        In <b><i>EMNLP Findings, 2026</i></b>, Budapest, Hungary.
+		<br>
+	</li>
+    <li>
+    <a href=""><i>Beyond Chunk-Local Extraction: Cross-Chunk Graph Augmentation for GraphRAG</i></a>,<br> 
+       Jiaming Zhang, Yibo Zhao, Jing Yu, Jianxiang Yu, <b>Xiang Li*</b>. <br>
+        In <b><i>EMNLP Findings, 2026</i></b>, Budapest, Hungary.
+		<br>
+	</li>
+    <li>
 	<a href=""><i>RATE: Reviewer Profiling and Annotation-free Training for Expertise Ranking in Peer Review Systems</i></a>,<br> 
        Weicong Liu, Zixuan Yang, Yibo Zhao, <b>Xiang Li</b>. <br>
         In <b><i>ACL, 2026</i></b>, San Diego, USA.
