@@ -39,12 +39,6 @@
 		<br>
 	</li>
     <li>
-    <a href="https://arxiv.org/pdf/2605.28004"><i>Beyond Chunk-Local Extraction: Cross-Chunk Graph Augmentation for GraphRAG</i></a>,<br> 
-       Jiaming Zhang, Yibo Zhao, Jing Yu, Jianxiang Yu, <b>Xiang Li*</b>. <br>
-        In <b><i>EMNLP Findings, 2026</i></b>, Budapest, Hungary.
-		<br>
-	</li>
-    <li>
 	<a href="https://arxiv.org/pdf/2601.19637"><i>RATE: Reviewer Profiling and Annotation-free Training for Expertise Ranking in Peer Review Systems</i></a>,<br> 
        Weicong Liu, Zixuan Yang, Yibo Zhao, <b>Xiang Li</b>. <br>
         In <b><i>ACL, 2026</i></b>, San Diego, USA.
