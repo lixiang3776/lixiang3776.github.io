@@ -3,6 +3,12 @@
 
 <ul>
     <li>
+	<a href="https://arxiv.org/pdf/2605.27865"><i>Relation-Aware Graph Foundation Model</i></a>,<br> 
+       Jianxiang Yu, Jiapeng Zhu, Hao Qian, Ziqi Liu, Zhiqiang Zhang, <b>Xiang Li*</b>. <br>
+        In <b><i>NeurIPS, 2026</i></b>, Sydney, Australia.
+		<br>
+	</li>
+    <li>
 	<a href="https://arxiv.org/pdf/2605.27865"><i>MERIT: Matching Expertise via Rubric-Informed Training for Reviewer Assignment</i></a>,<br> 
        Zixuan Yang, Yibo Zhao, Weicong Liu, <b>Xiang Li*</b>. <br>
         In <b><i>EMNLP, 2026</i></b>, Budapest, Hungary.
