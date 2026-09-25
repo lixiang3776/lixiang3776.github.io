@@ -3,7 +3,7 @@
 
 <ul>
     <li>
-	<a href="https://arxiv.org/pdf/2605.27865"><i>Relation-Aware Graph Foundation Model</i></a>,<br> 
+	<a href="https://arxiv.org/pdf/2505.12027"><i>Relation-Aware Graph Foundation Model</i></a>,<br> 
        Jianxiang Yu, Jiapeng Zhu, Hao Qian, Ziqi Liu, Zhiqiang Zhang, <b>Xiang Li*</b>. <br>
         In <b><i>NeurIPS, 2026</i></b>, Sydney, Australia.
 		<br>
