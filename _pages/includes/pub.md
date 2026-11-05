@@ -3,6 +3,12 @@
 
 <ul>
     <li>
+	<a href="https://arxiv.org/abs/2407.10204"><i>Improving Graph Out-of-distribution Generalization Beyond Causality</i></a>,<br> 
+       Can Xu, Yao Cheng, Jianxiang Yu, Haosen Wang, Jingsong Lv, Yao Liu, <b>Xiang Li*</b>. <br>
+        In <b><i>WSDM, 2027</i></b>, Hong Kong.
+		<br>
+	</li>
+    <li>
 	<a href="https://arxiv.org/pdf/2505.12027"><i>Relation-Aware Graph Foundation Model</i></a>,<br> 
        Jianxiang Yu, Jiapeng Zhu, Hao Qian, Ziqi Liu, Zhiqiang Zhang, <b>Xiang Li*</b>. <br>
         In <b><i>NeurIPS, 2026</i></b>, Sydney, Australia.
